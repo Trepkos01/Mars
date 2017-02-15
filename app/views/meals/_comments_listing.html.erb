@@ -1,0 +1,27 @@
+<% commented_meal_recommendations.each do |commented_meal_recommendation| %>
+	<%= form_tag({controller: "meals", action: "rate_comment"}, method: "post", remote: "true") do %>
+	<div id="comment_block_<%= commented_meal_recommendation.id %>" class="comment_box">
+		<div id="comment_header_<%= commented_meal_recommendation.id %>" class="comment_header">
+		<b><%= commented_meal_recommendation.user.user_name %>
+		<% if commented_meal_recommendation.rating %>
+			<font color="green">recommends!</font>
+		<% else %>
+			<font color="red">does not recommend!</font>
+		<% end %>
+		</b>
+		<span class="comment_header_date"><%= commented_meal_recommendation.created_at.strftime("%Y-%m-%d") %></span>
+		</div>
+		<div id="comment_content_<%= commented_meal_recommendation.id %>">
+			<%= commented_meal_recommendation.comments %>
+		</div>
+		<hr/>
+		<div id="helpfulness_<%= commented_meal_recommendation.id %>" class="comment_helpful_box">
+			<b>Was this comment helpful?</b> 
+			<br/>
+			<%= submit_tag("Yes", name: "yes", class: "comment_button btn btn-default") %>&nbsp;<%= submit_tag("No", name: "no", class: "comment_button btn btn-default")%>&nbsp;<%= submit_tag("Report", name: "report", class: "comment_button btn btn-default")  %>  
+			<span class="help-block"><%= commented_meal_recommendation.total_helpfuls %> Helpful, <%= commented_meal_recommendation.total_not_helpfuls %> Not Helpful</span>
+		</div>
+		<%= hidden_field_tag "comment_id", value = commented_meal_recommendation.id%>
+	</div>
+	<% end %>
+<% end %>

@@ -1,0 +1,23 @@
+<tr onclick='window.location="<%= restaurant_path(restaurant)%>"' class="table_row_link">
+	<td>
+		<div class="image_box image_reflection">
+			<%= link_to image_tag(image_valid(restaurant.image_url), alt: restaurant.restaurant_name, width: "50", height: "50", class:"image_listing"), restaurant_path(restaurant) %>
+		</div>
+	</td>
+	<td>
+		<span class="restaurant_listing_title">
+			<b><%= restaurant.restaurant_name %></b>
+		</span>
+		<%= restaurant.address %>
+		<br/>
+	</td>
+	<td  colspan="100%">
+	<span class="hide_responsive"><b>Mars Score:</b></span>
+		<% if restaurant.restaurant_rated_meals.size > 0 %>
+			<%= image_tag(return_score_image(restaurant.restaurant_composite_score), alt: "Restaurant Score") %>
+			<%= restaurant.restaurant_composite_score.to_s + "%" %>&nbsp;<span class="small_text"><%= pluralize(restaurant.restaurant_rated_meals.size, "rated meal") %></span>
+		<% else %>
+			No Rated Meals
+		<% end %>
+	</td>
+</tr>

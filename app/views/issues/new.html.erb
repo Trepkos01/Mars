@@ -1,0 +1,21 @@
+<% header "Report an Issue" %>
+<h4>Help us make your experience better.</h4>
+<hr/>
+<%= form_for(@issue) do |f| %>
+	<% if @issue.errors.any? %>
+		<div id="error_explanation">
+		  <ul>
+		  <% @issue.errors.full_messages.each do |message| %>
+			<li><%= message %></li>
+		  <% end %>
+		  </ul>
+		</div>
+	  <% end %>
+
+ <div class="form-group">
+    <%= f.label :@issue, "Issue Description" %>
+    <%= f.text_area :issue, class: 'form-control' %>
+ </div>
+ <br/>
+ <center><%= f.submit "Submit Your Issue", class: 'btn btn-primary' %></center>
+<% end %>

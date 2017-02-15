@@ -1,0 +1,8 @@
+$("#search_results").html('<%= escape_javascript(render("results")) %>');
+$("#search_results").show();
+console.log("Hello")
+
+// Since the DOM is reloaded when this template is created, the new table rows don't have the event handler.
+$("tr[data-link]").click(function() {
+	window.location =  $(this).data("link")
+})

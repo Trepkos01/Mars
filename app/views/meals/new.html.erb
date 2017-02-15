@@ -1,0 +1,2 @@
+<% header "Create a New Meal for "+@restaurant.restaurant_name %>
+<%= render partial: "meal_form", locals: { meal: @meal, restaurant: @restaurant, type: "Add", public_tag_list: @public_tag_list } %>

@@ -1,0 +1,109 @@
+<% header "Restaurant Details" %>
+<hr/>
+<div class="header_container">
+	<div class="image_reflection header_box">
+		<%= image_tag(image_valid(@restaurant.image_url), :alt => @restaurant.restaurant_name, :width => "250", :height => "200")%>
+	</div>
+	<br class="responsive_show"/>
+	<div class="general_info_box header_box">
+		<span class="restaurant_title">
+		<%= @restaurant.restaurant_name %>
+		</span>
+		<br/>
+		<b>Located at</b>
+		<br/>
+		<%= @restaurant.address %>
+		<br/>
+		<b>Composite Score:</b>
+		<% if @restaurant.restaurant_rated_meals.size > 0 %>
+			<%= image_tag(return_score_image(@restaurant.restaurant_composite_score), :alt => "Restaurant Score") %>
+			<%= @restaurant.restaurant_composite_score.to_s + "%" %>&nbsp;<span class="small_text"><%= pluralize(@restaurant.restaurant_rated_meals.size, "rated meal") %></span>
+		<% else %>
+			Not Rated
+		<% end %>
+		<br/>
+		
+	</div>
+	<div id="qr_box" class="header_box">
+		<%= image_tag(@qr_url, class:"hide_responsive") %>
+		<br/>
+		<span class="small_text hide_responsive">Save this QR code for your restaurant.</span>
+	</div>
+</div>
+<br class="hide_responsive"/>
+<br class="hide_responsive"/>
+<div id="restaurant_content">
+	<h3>Menu Details</h3>
+		<b>Don't see your meal?</b>&nbsp;&nbsp;<%= link_to "Add Your Meal", new_restaurant_meal_path(@restaurant) %>
+		<br/><br/>
+		<div id="restaurant_meals" class="listing_box">
+		  <table id="restaurant_meals_listing" class="listing_table">
+			<th colspan="4">Entrees</th>
+			<% if !@entree_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "entree" } %>
+			<% else %>
+				<% @entree_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @entree_meals, param_name: "entrees_page"%></td></tr>
+			<th colspan="4">Appetizers</th>
+			<% if !@appetizer_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "appetizer" } %>
+			<% else %>
+				<% @appetizer_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @appetizer_meals, param_name: "appetizers_page"%></td></tr>
+			<th colspan="4">Desserts</th>
+			<% if !@dessert_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "dessert" } %>
+			<% else %>
+				<% @dessert_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @dessert_meals, param_name: "desserts_page"%></td></tr>
+			<th colspan="4">Soups</th>
+			<% if !@soup_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "soup" } %>
+			<% else %>
+				<% @soup_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @soup_meals, param_name: "soups_page"%></td></tr>
+			<th colspan="4">Salads</th>
+			<% if !@salad_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "salad" } %>
+			<% else %>
+				<% @salad_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @salad_meals, param_name: "salads_page"%></td></tr>
+			<th colspan="4">Sides</th>
+			<% if !@side_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "side" } %>
+			<% else %>
+				<% @side_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @side_meals, param_name: "sides_page"%></td></tr>
+			<th colspan="4">Drinks</th>
+			<% if !@drink_meals.any? %>
+					<%= render partial: "no_meal", locals: { label: "drink" } %>
+			<% else %>
+				<% @drink_meals.each do |meal| %>
+					<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+				<% end %>
+			<% end %>
+			<tr><td colspan="4"><%= will_paginate @drink_meals, param_name: "drinks_page"%></td></tr>
+		  </table>
+		</div>
+	</div>
+<br/>
+<center><span class="small_text">This restaurant was added by <%= @restaurant.user.user_name %></span></center>
+<br/>

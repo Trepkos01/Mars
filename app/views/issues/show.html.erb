@@ -1,0 +1,12 @@
+<% header "Meal Details" %>
+<hr/>
+<div id="issue_description">
+	<b><%= @issue.issue %></b>
+</div>
+<br/>
+Submitted by <%= @issue.user.email %> on <%= @issue.created_at %>
+<br/>
+<hr/>
+<%= form_tag({controller: "issues", action: "resolve"}, method: "post") do %>
+	<center><%= submit_tag("Mark As Resolved", name: 'resolve', class: 'btn btn-success') %></center>
+<% end %>

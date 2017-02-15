@@ -1,0 +1,38 @@
+<nav class="navbar navbar-default">
+	<div class="container-fluid">
+		 <div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</button>
+			<%= link_to image_tag("mars_draft_5_tiny_trans_textless.png"), root_path, class: "navbar-brand", style: "padding:1px;" %>
+			<% if user_signed_in? %>
+				<div class="logged_in_as">
+					<b><%= current_user.user_name %></b>
+				</div>
+			<% end %>
+		 </div>
+		 
+		 <div class="collapse navbar-collapse"  id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+			<% if user_signed_in? %>
+					<li><%= link_to "Profile", user_profile_path %></li>
+					<% if current_user.moderator %>
+						<li><%= link_to "Moderator", moderator_path %></li>
+					<% end %>
+					<li role="separator" class="divider"></li>
+					<% if current_user.provider == "default" %>
+					<li><%= link_to "Account Settings", edit_user_registration_path %></li>
+					<% end %>
+					<li><%= link_to "Log out", destroy_user_session_path, method: :delete %></li>
+			<% else %>
+					<li><%= link_to "Log In", new_user_session_path %></li>
+					<li><%= link_to "Become a Contributor", new_user_registration_path %></li>
+			<% end %>
+				</ul>
+			</ul>
+		 </div> <!-- End of collapsed content. -->
+	</div> <!-- End of fluid container -->
+</nav> <!-- End of navbar -->

@@ -1,0 +1,51 @@
+<tr onclick='window.location="<%= restaurant_meal_path(meal.restaurant_id, meal.id)%>"' class="table_row_link">
+	<td>
+		<div class="image_box image_reflection">
+			<%= image_tag(image_valid(meal.image_url), alt: meal.meal_name, width: "50", height: "50", class:"image_listing") %>
+		</div>
+	</td>
+	<td class="truncate">
+		<span class="meal_listing_title">
+			<b><%= meal.meal_name %></b>
+		</span>
+		<br/>
+		<span class="restaurant_listing_title">
+			<b><%= meal.restaurant.restaurant_name %></b>
+		</span>
+		<br/>
+		<b><%= meal.category.capitalize %></b>
+		<br/>
+		<%= meal.description %>
+	</td>
+	<td>
+		<span class="hide_responsive"><b>Mars Score:</b></span>
+		<% if meal.meal_recommendations.size > 0 %>
+			<%= image_tag(return_score_image(meal.meal_score), alt: "Meal Score", class:"small_icon") %>
+			<%= meal.meal_score.to_s + "%" %>&nbsp;<span class="small_text"><%= pluralize(meal.meal_recommendations.size, "response") %></span>
+		<% else %>
+			Not Rated
+		<% end %>
+		<% if meal.meal_additionals.size > 0 %>
+			<br/>
+			<span class="hide_responsive"><b>Extra Info:</b></span>
+			<br class="responsive_show"/>
+			<% if meal.cost_score >= 75 || meal.cost_score <= 25  %>
+				<%= image_tag(return_meal_cost_image(meal.cost_score), alt: "Meal Cost", class:"small_icon") %>
+			<% end %>
+			<%= meal.cost_score.to_s + "%" %> 
+			Cost,
+			<% if meal.portion_score >= 75 || meal.portion_score <= 25  %>
+				<%= image_tag(return_meal_portion_image(meal.portion_score), alt: "Meal Portion", class:"small_icon") %>
+			<% end %>
+			<%= meal.portion_score.to_s + "%" %> Portion &nbsp;<span class="small_text"><br class="responsive_show"><%= pluralize(meal.meal_additionals.size, "response") %></span>
+		<% end %>
+	</td>
+	<td>
+		<% if meal.achievements.size > 0 %>
+			<% meal.achievements.each do |achievement| %>
+				<%= image_tag(achievement, alt: achievement, class:"small_icon") %>
+				<br class="responsive_show"/>
+			<% end %>
+		<% end %>
+	</td>
+</tr>

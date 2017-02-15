@@ -1,0 +1,370 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+ 
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import 'bootstrap/theme';
+
+#error_explanation h2{
+	visibility: hidden;
+	margin: -10px
+}
+
+#error_explanation p{
+	color: #333;
+	margin-bottom: 0;
+	padding: 5px;
+}
+
+#error_explanation ul li{
+	font-size: 12px;
+	color: red;
+	list-style: square;
+}
+
+#preview {
+	width:150px;
+	height:100px;
+	border: aliceblue;
+	border-width: medium;
+	border-style: solid;
+}
+
+img {
+	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(90%, transparent), to(rgba(255, 255, 255, 0.5)));
+}
+
+.comments_field{
+	height:150px !important;
+}
+
+.comment_button{
+	padding:3px;
+	font-size: small;
+}
+
+.comment_box{
+	background-color: aliceblue;
+    padding: 10px;
+    border: 1px solid rgba(217, 237, 247, 0.81);
+
+}
+
+.comment_header_date{
+	font-size: x-small;
+    color: grey;
+}
+
+.comment_helpful_box{
+	font-size: smaller;
+}
+
+.comment_header{
+	padding-bottom:5px;
+}
+
+.footer_link > a{
+	color: lightgrey;
+}
+
+.logged_in_as{
+	color: #d1d1d1;
+    padding: 15px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.listing_box {
+	padding: 15px;
+    background-color: azure;
+    border-color: #ccc;
+    border-style: solid;
+    border-width: thin;
+}
+
+.listing_table > tbody > tr:nth-child(odd){
+	background: white
+}
+.listing_table > tbody > tr:nth-child(even){
+	background: #F5F5F5
+}
+.listing_table > tbody > tr > td:nth-child(1){
+	width: 50px
+}
+
+.listing_table > tbody > tr{
+	border: lightgrey solid thin;
+}
+
+.listing_table > tbody > tr > td{
+	padding:10px
+}
+
+.listing_table > tbody > tr > th{
+	padding:10px;
+	text-align:center;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	text-rendering: optimizeLegibility;
+	letter-spacing: .05em;
+	font-size:120%;
+	background-color: lightsteelblue;
+    color: white;
+}
+
+.listing_table{
+	width:100%
+}
+
+.general_info_box{
+	display:inline-block;
+	padding:15px;
+}
+
+.restaurant_title{
+	font-size: 200%;
+	color: indianred;
+}
+
+.restaurant_listing_title{
+	color: indianred;
+}
+
+.meal_title{
+	font-size: 200%;
+	color: cadetblue;
+}
+
+.meal_listing_title{
+	color: cadetblue;
+}
+
+.truncate{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.option_header{
+	color: cadetblue;
+	font-size: 120%
+}
+
+.recommend_buttons{
+	margin: 5px;
+	width: 150px;
+	display: inline-block;
+}
+
+.header_box{
+	width:inherit;
+	height:200px;
+}
+
+.header_container{
+	display:flex;
+}
+.small_text{
+	font-size: 75%;
+	color: darkgrey;
+}
+.table_row_link{
+	cursor:pointer;
+}
+.table_row_link:hover{
+	background-color:rgba(92, 184, 92, 0.12) !important;
+}
+.qrbox{
+	display:inline-block;
+}
+.image_box{
+	display:inline-block;
+}
+footer{
+	margin-top:150px;
+	padding-bottom:25px;
+	padding-top:15px;
+	background-color: rgba(138, 27, 27, 0.67);
+	color: white;
+}
+body,html{
+	height:100%;
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em;
+}
+footer, .push {
+	height: 4em;
+}
+.unselectable{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	cursor:default;
+}
+.slogan_font{ 
+	color: #BF2E0C; font-family: 'Lato', sans-serif; font-size: 120%; font-weight: 300; line-height: 58px; margin: 0 0 58px;
+}
+#search_bar{
+	overflow:hidden;
+	padding-right:1em;
+}
+#search_button{
+	float:right;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+/* Responsive Classes */
+
+.responsive_logo_main{
+	max-width: 550px;
+	max-height: 500px;
+	width: 100%;
+	height: auto;
+}
+
+.responsive_restaurant_preview{
+	max-width: 350px;
+	max-height: 300px;
+	width: 100%;
+	height: auto;
+}
+
+.responsive_meal_preview{
+	max-width: 250px;
+	max-height: 170px;
+	width: 100%;
+	height: auto;
+}
+
+.responsive_show{
+	display: none;
+}
+
+@media only screen and (max-width: 760px), (max-device-width: 1024px) and (min-device-width: 768px) {
+	h1{
+		font-size: 24px;
+		margin: 0px;
+	}
+	
+	h2{
+		fonts-size:20px;
+	}
+	
+	h3{
+		font-size:18px;
+	}
+	
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+		width:100% !important;
+	}
+	
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		position: absolute;
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	
+	table > tbody > tr > td{
+		text-align: center; 
+		padding-left: 0px;
+		white-space: normal;
+	}
+	
+	.help-block{
+		font-size:10px;
+	}
+	
+	.small_icon{
+		width:20px;
+		height:20px;
+	}
+	
+	.slogan_text{
+		display:none;
+	}
+	
+	.hide_responsive{
+		display:none;
+	}
+	
+	.responsive_show{
+		display: block;
+	}
+	
+	.meal_image_box{
+		height:150px;
+	}
+	
+	.header_box{
+		display:block;
+	}
+	
+	.header_container{
+		display:block;
+		height: 350px;
+		text-align:center;
+	}
+	
+	#search_bar{
+		padding-right:0px
+	}
+	
+	.image_listing{
+		width:150px;
+		height:150px;
+	}
+		
+}

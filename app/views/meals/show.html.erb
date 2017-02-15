@@ -1,0 +1,141 @@
+<% header "Meal Details" %>
+<hr/>
+<div class="header_container">
+	<div class="header_box meal_image_box">
+		<%= image_tag(image_valid(@meal.image_url), alt: @meal.meal_name, width: "250", height: "200") %>
+	</div>
+	<br class="responsive_show"/>
+	<br class="responsive_show"/>
+	<div class="general_info_box header_box">
+		<span class="meal_title">
+		<%= @meal.meal_name %>
+		</span>
+		<br/>
+		<span class="restaurant_listing_title"><b><%= @meal.restaurant.restaurant_name %></b></span>
+		<br/>
+		<b><%= @meal.category.capitalize %></b>
+		<span class="hide_responsive"><br/><%= render @meal.tags %></span>
+		<br/>
+		<% if !@meal_recommendation %>
+			<b>You have not rated this meal yet.</b>
+		<% else %>
+			<b>You <% if @meal_recommendation.rating %> <font color="green">recommend</font> <% else %> <font color="darkred">don't recommend</font> <% end %> this meal.</b>
+		<% end %>
+		<br/>
+		<% if @meal_additional %>
+			<span class="hide_responsive"><b>You think the cost is 
+			<% if @meal_additional.cost == 1 %> 
+				<font color="green">cheap</font> 
+			<% elsif @meal_additional.cost == 0  %> 
+				<font color="darkred">expensive</font> 
+			<% else %>
+				average
+			<% end %> 
+			 and the portion size is
+			<% if @meal_additional.portion == 1 %> 
+				<font color="green">large.</font> 
+			<% elsif @meal_additional.portion == 0  %> 
+				<font color="darkred">small.</font> 
+			<% else %>
+				average.
+			<% end %> 
+			</b></span>
+		<% end %>
+		<br/>
+		<span class="hide_responsive"><b>Mars Score:</b></span>
+		<% if @meal.meal_recommendations.size > 0 %>
+			<%= image_tag(return_score_image(@meal.meal_score), alt: "Meal Score", class: "small_icon") %>
+			<%= @meal.meal_score.to_s + "%" %>&nbsp;<span class="small_text"><%= pluralize(@meal.meal_recommendations.size, "response") %></span>
+		<% else %>
+			Not Rated
+		<% end %>
+		<% if @meal.meal_additionals.size > 0 %>
+			<br/>
+			<span class="hide_responsive"><b>Extra Info:</b></span>
+			<% if @meal.cost_score >= 75 || @meal.cost_score <= 25  %>
+				<%= image_tag(return_meal_cost_image(@meal.cost_score), alt: "Meal Cost", class:"small_icon") %>
+			<% end %>
+			<%= @meal.cost_score.to_s + "%" %> 
+			Cost,
+			<% if @meal.portion_score >= 75 || @meal.portion_score <= 25  %>
+				<%= image_tag(return_meal_portion_image(@meal.portion_score), alt: "Meal Portion", class: "small_icon") %>
+			<% end %>
+			<%= @meal.portion_score.to_s + "%" %> Portion &nbsp;<span class="small_text"><%= pluralize(@meal.meal_additionals.size, "response") %></span>
+		<% end %>
+	</div>
+</div>
+<div id="achievements">
+	<% if @meal.achievements.size > 0 %>
+		<% @meal.achievements.each do |achievement| %>
+			<%= image_tag(achievement, alt: achievement, class:"small_icon") %>
+		<% end %>
+	<% end %>
+</div>
+<hr class="hide_responsive"/>
+<%= form_tag({controller: "meals", action: "assess"}, method: "post") do %>
+<div id="recommend_block" class="form-group">
+	<span class="hide_responsive">
+	<% if !@meal_recommendation %>
+		<h3>Your
+	<% else %>
+		<h3>Change your 
+	<% end %>
+		thoughts?</h3>
+	</span>
+	<br/>
+	<%= submit_tag("Recommend", name: "recommend", class: "btn btn-success recommend_buttons") %>
+	<%= submit_tag("Don't Recommend", name: "dont_recommend", class: "btn btn-danger recommend_buttons") %>
+</div>
+<hr/>
+<div id="optionals_block" class="form-group">
+	<h3>Optional Details</h3>
+	<span class="option_header"><b>Cost</b></span>
+	<br/>
+	<%= radio_button_tag(:cost, 0) %>
+	<%= label_tag(:cost_expensive, "Expensive") %>
+	<%= radio_button_tag(:cost, 1) %>
+	<%= label_tag(:cost_cheap, "Cheap") %>
+	<br/>
+	<span class="option_header"><b>Expensive</b></span>
+	<br/>
+	<%= radio_button_tag(:portion, 0) %>
+	<%= label_tag(:portion_small, "Small Portions") %>
+	<%= radio_button_tag(:portion, 1) %>
+	<%= label_tag(:portion_large, "Large Portions") %>
+</div>
+<div id="comments_block" class="form-group">
+   <span class="option_header"><b>Your Comments</b></span>
+   <br/>
+    <%= text_area_tag "comments", nil, class: "comments_field form-control" %>
+</div>
+<% end %>
+<% if @meal_recommendation && (current_user.provider == "facebook" || current_user.provider == "twitter") %>
+<hr/>
+<div id = "share_recommendation">
+	<h3>Share your recommendation.</h3>
+	<%= form_tag({controller: "meals", action: "share"}, method: "post") do %>
+		<% if current_user.provider == "facebook" %>
+			<%= submit_tag("Share on Facebook", name: "share_facebook", class: "btn btn-primary") %>
+		<% elsif current_user.provider == "twitter" %>
+			<%= submit_tag("Share on Twitter", name: "share_twitter", class: "btn btn-primary") %>
+		<% end %>
+	<% end %>
+</div>
+<% end %>
+<% if @commented_meal_recommendations.any? %>
+	<hr/>
+	<div id="meal_comments">
+		<h3>What are other people are saying?</h3>
+		<%= render partial: "comments_listing.html.erb", locals: { commented_meal_recommendations: @commented_meal_recommendations } %>
+	</div>
+<% end %>
+<hr/>
+<b>View more from <%= link_to @meal.restaurant.restaurant_name, restaurant_path(@meal.restaurant.id) %></b>
+<div id="additional_meal_info">
+	<h3>Description</h3>
+	<%= @meal.description %>
+</div>
+<span class="responsive_show"><br/><b>Related</b><br/><%= render @meal.tags %></span>
+<br/>
+<center><span class="small_text">This restaurant was added by <%= @meal.user.user_name %></span></center>
+<br/>

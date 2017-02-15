@@ -1,0 +1,16 @@
+<% if @meals.any? %>
+	<hr/>
+	<b>Showing <%= pluralize(@meals.count, "meal") %>.</b>
+	<br/><br/>
+	<div id="meals" class="listing_box">
+	  <table id="meal_listing" class="listing_table">
+	  <% @meals.each do |meal| %>
+		<%= render partial: "edit_meal_listing", locals: { meal: meal } %>
+	  <% end %>
+	  </table>
+	</div>
+	 <%= will_paginate @meals, param_name: "search_meals_page" %>
+<% else %>
+	<hr/>
+	<b>No meal matching that keyword.</b>
+<% end %>

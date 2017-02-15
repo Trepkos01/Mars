@@ -1,0 +1,46 @@
+<%= form_for [restaurant,meal] do |f| %>
+  
+  <% if meal.errors.any? %>
+	<div id="error_explanation">
+	  <ul>
+	  <% meal.errors.full_messages.each do |message| %>
+		<li><%= message %></li>
+	  <% end %>
+	  </ul>
+	</div>
+  <% end %>
+
+ <div class="form-group">
+    <%= f.label :meal_name, "Meal Name" %>
+    <%= f.text_field :meal_name, class: "form-control" %>
+ </div>
+ 
+  <div class="form-group">
+    <%= f.label :description, "Description" %>
+    <%= f.text_area :description, class: "form-control" %>
+ </div>
+ 
+  <div class="form-group">
+    <%= f.label :category, "Category" %>
+    <%= f.select :category, [["Appetizer","appetizer"],["Soup","soup"],["Salad","salad"],["Entree","entree"],["Drink","drink"],["Dessert","dessert"],["Side","side"]] %>
+ </div>
+ 
+ <div class="form-group">
+	<%= f.label :tag_list, "Related Tags" %>
+    <%= f.text_field :tag_list, value: public_tag_list.to_s %>
+	<span class="help-block">Seperate tags by comma.</span>
+ </div>
+ 
+ <hr/>
+ <div class="field">
+    <%= f.label :image, "Meal Image" %><br>
+    <%= f.file_field :image %>
+	<span class="help-block">Image is optional.</span>
+ </div>
+ <br/>
+ <div id="preview">
+ </div>
+ <br/>
+ <%= f.submit "#{type} Meal", class: "btn btn-primary" %>
+
+<% end %>

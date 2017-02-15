@@ -1,0 +1,9 @@
+<% header "Meals relating to "+@tag.name.capitalize %>
+<div id="restaurant_meals" class="listing_box">
+	<table id="restaurant_meals_listing" class="listing_table">
+		<% @meals.each do |meal| %>
+			<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+		<% end %>
+	</table>
+	<%= will_paginate @meals %>
+</div>

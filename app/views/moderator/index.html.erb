@@ -1,0 +1,61 @@
+<% header "Moderator Interface" %>
+<hr/>
+<% if @inactive_restaurants.any? %>
+	<b><%= pluralize(@inactive_restaurants.count, "restaurant") %> awaiting your approval.</b>
+	<br/><br/>
+	<div id="inactive_restaurants" class="listing_box">
+	  <table id="inactive_restaurant_listing" class="listing_table">
+	  <% @inactive_restaurants.each do |restaurant| %>
+		<%= render partial: "edit_restaurant_listing", locals: { restaurant: restaurant } %>
+	  <% end %>
+	  </table>
+	  <%= will_paginate @inactive_restaurants, param_name: "restaurants_page" %>
+	</div>
+<% end %>
+<% if @inactive_meals.any? %>
+	<hr/>
+	<b><%= pluralize(@inactive_meals.count, "meal") %> awaiting your approval.</b>
+	<br/><br/>
+	<div id="inactive_meals" class="listing_box">
+	  <table id="inactive_meal_listing" class="listing_table">
+	  <% @inactive_meals.each do |meal| %>
+		<%= render partial: "edit_meal_listing", locals: { meal: meal } %>
+	  <% end %>
+	  </table>
+	  <%= will_paginate @inactive_meals, param_name: "meals_page"%>
+	</div>
+<% end %>
+<br/>
+<div id="search_form" class="form-group">
+	<h3>Search Restaurants and Meals</h3>
+	<%= form_tag moderator_path, method: "get", id: "restaurant_meal_search" do %>
+		<%= text_field_tag :search, params[:search], class: "form-control" %>
+		<br/>
+		<center><%= submit_tag "Search", name: nil, class: "btn btn-primary" %></center>
+	<% end %>
+	<% if !@search.blank? %>
+	<h4>Meals</h4>
+	<div id="meals">
+		<%= render "search_meals" %>
+	</div>
+	<br/>
+	<h4>Restaurants</h4>
+	<div id="restaurants">
+		<%= render "search_restaurants" %>
+	</div>
+	<% end %>
+</div>
+<div id="unresolved_issues">
+	<h3>Existing Issues</h3>
+	<% if @issues.any? %>
+	<table id="existing_issues_table" class="listing_table">
+	<col width="80%"><col width="20%">
+	<% @issues.each do |issue| %>
+		<tr data-link="<%= issue_path(issue.id)%>" class="table_row_link">
+		<td class="truncate"><%= issue.issue %></td>
+		<td><%= issue.user.email %></td>
+		</tr>
+	<% end %>
+	</table>
+	<% end %>
+</div>

@@ -1,0 +1,88 @@
+<% header "Edit Meal" %>
+<hr/>
+<div class="header_container">
+	<div class="header_box meal_image_box">
+		<%= image_tag(image_valid(@meal.image_url), alt: @meal.meal_name, width: "250", height: "200") %>
+	</div>
+	<br class="responsive_show"/>
+	<br class="responsive_show"/>
+	<div class="general_info_box header_box">
+		<span class="meal_title">
+		<%= @meal.meal_name %>
+		</span>
+		<br/>
+		<span class="restaurant_listing_title"><b><%= @meal.restaurant.restaurant_name %></b></span>
+		<br/>
+		<b><%= @meal.category.capitalize %></b>
+		<span class="hide_responsive"><br/><%= render @meal.tags %></span>
+		<br/>
+		<b>Status:</b> <% if @meal.active %> <font color="green">Active <% else %> <font color="red">Inactive <% end %> </font>
+		<br/>
+		<% if !@meal_recommendation %>
+			<b>You have not rated this meal yet.</b>
+		<% else %>
+			<b>You <% if @meal_recommendation.rating %> <font color="green">recommend</font> <% else %> <font color="darkred">don't recommend</font> <% end %> this meal.</b>
+		<% end %>
+		<br/>
+		<% if @meal_additional %>
+			<span class="hide_responsive"><b>You think the cost is 
+			<% if @meal_additional.cost == 1 %> 
+				<font color="green">cheap</font> 
+			<% elsif @meal_additional.cost == 0  %> 
+				<font color="darkred">expensive</font> 
+			<% else %>
+				average
+			<% end %> 
+			 and the portion size is
+			<% if @meal_additional.portion == 1 %> 
+				<font color="green">large</font> 
+			<% elsif @meal_additional.portion == 0  %> 
+				<font color="darkred">small</font> 
+			<% else %>
+				average
+			<% end %> 
+			</b></span>
+		<% end %>
+		<br/>
+		<span class="hide_responsive"><b>Mars Score:</b></span>
+		<% if @meal.meal_recommendations.size > 0 %>
+			<%= image_tag(return_score_image(@meal.meal_score), alt: "Meal Score", class: "small_icon") %>
+			<%= @meal.meal_score.to_s + "%" %>&nbsp;<span class="small_text"><%= pluralize(@meal.meal_recommendations.size, "response") %></span>
+		<% else %>
+			Not Rated
+		<% end %>
+		<% if @meal.meal_additionals.size > 0 %>
+			<br/>
+			<span class="hide_responsive"><b>Extra Info:</b></span>
+			<% if @meal.cost_score >= 75 || @meal.cost_score <= 25  %>
+				<%= image_tag(return_meal_cost_image(@meal.cost_score), alt: "Meal Cost", class: "small_icon") %>
+			<% end %>
+			<%= @meal.cost_score.to_s + "%" %> 
+			Cost,
+			<% if @meal.portion_score >= 75 || @meal.portion_score <= 25  %>
+				<%= image_tag(return_meal_portion_image(@meal.portion_score), alt: "Meal Portion", class: "small_icon") %>
+			<% end %>
+			<%= @meal.portion_score.to_s + "%" %> Portion &nbsp;<span class="small_text"><%= pluralize(@meal.meal_additionals.size, "response") %></span>
+		<% end %>
+	</div>
+</div>
+<br/>
+<br class="responsive_show"/>
+<hr class="hide_responsive"/>
+<div id="status_block" class="form-group">
+	<h3>Change Meal Status</h3>
+	<%= form_tag({controller: "meals", action: "change_status"}, method: "post") do %>
+		<% if @meal.active %>
+			<%= submit_tag("Deactivate", name: "deactivate", class: "btn btn-danger") %>
+		<% else %>
+			<%= submit_tag("Activate", name: "activate", class: "btn btn-success") %>
+		<% end %>
+	<% end %>
+</div>
+<hr/>
+<h3>Edit Details</h3>
+	<%= render partial: "meal_form", locals: { meal: @meal, restaurant: @meal.restaurant, type: "Save", public_tag_list: @public_tag_list } %>
+<br/>
+<br/>
+<br/>
+<center><%= button_to "Remove this meal.",url_for(action: "destroy",id: @meal.id),method: :delete, data: {confirm: "Are you sure?"}, class: "btn btn-danger" %></center>

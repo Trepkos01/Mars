@@ -1,0 +1,33 @@
+<%= @message %>
+<br/>
+<% if @meals.exists? || @restaurants.exists? %>
+	<hr/>
+	<br/><br/>
+	<% if @meals.exists? %>
+		<div id="meal_search_results" class="listing_box">
+			<b>Showing <%= pluralize(@meals.count, "meal") %>.</b><br/>
+			<table id="meal_results_listing" class="listing_table">
+			<% @meals.each do |meal| %>
+				<%= render partial: "layouts/meal_listing", locals: { meal: meal } %>
+			<% end %>
+			</table>
+			<%= js_will_paginate @meals, param_name: "search_meals_page" %>
+		</div>
+		<br/>
+	<% end %>
+	<% if @restaurants.exists? %>
+		<div id="restaurant_search_results" class="listing_box">
+			<b>Showing <%= pluralize(@restaurants.count, "restaurant") %>.</b><br/>
+			<table id="restaurant_results_listing" class="listing_table">
+			<% @restaurants.each do |restaurant| %>
+				<%= render partial: "layouts/restaurant_listing", locals: { restaurant: restaurant } %>
+			<% end %>
+			</table>
+			<%= js_will_paginate @restaurants, param_name: "search_restaurants_page", :params => {lat:params[:lat], lon:params[:lon], search:params[:search]} %>
+		</div>
+	<% end %> 
+<% else %>
+	<hr/>
+	<center><b>No meals matching that keyword.</b></center>
+<% end %>
+

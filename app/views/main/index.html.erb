@@ -1,0 +1,27 @@
+<% content_for :top_content do %>
+	<center>
+		<div class="container">
+			<div id="logo">
+				<%= image_tag("mars_logo_large.png", alt: "mars logo", class: "responsive_logo_main") %>
+				<br/>
+				<span class="slogan_font slogan_text">Explore your local restaurant scene the right way.</span>
+			</div>
+			<%= form_tag(main_search_path, method: "post", id: "main_search", remote: true) do %>
+			<div id="search_div">
+				<span class="hide_responsive"><%= button_tag("Search", id: "search_button", name: nil, class: "btn btn-primary")%></span>
+				<div id="search_bar" class="form-group has-feedback">
+					<%= text_field_tag :search, params[:search], placeholder: "e.g., ribeye near me, cake near San Diego, CA, spicy tamale", class: "form-control" %>
+					<i class="glyphicon glyphicon-search form-control-feedback responsive_show" style="color: darkgrey"></i>
+				</div>
+			</div>
+			<%= hidden_field_tag "lat", value = ""%>
+			<%= hidden_field_tag "lon", value = ""%>
+			<% end %>
+			<span class="help-block">Now with <b><%= pluralize(@current_restaurant_count, "restaurant" ) %></b> and <b><%= pluralize(@current_meal_count, "meal") %></b>.<br class="responsive_show"/> Can't find your restaurant or meal? <%= link_to "Try adding it!", new_restaurant_path %></span>
+			<div id="inform_user" class="help-block" style="color:red"></div>
+		</div>
+		<br/>
+		<div id="search_results"></div>
+	</center>
+<% end %>
+
