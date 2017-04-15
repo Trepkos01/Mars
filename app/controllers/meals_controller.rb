@@ -179,7 +179,7 @@ class MealsController < ApplicationController
 			# Content information 
 			title = current_user.user_name + " " + recommend_string + " this meal on Mars"
 			message = meal.meal_name + " at " + restaurant_name + "(" + restaurant_location + "), " + meal.total_recommendations.to_s + " " + "person".pluralize(meal.total_recommendations) + " recommend" + (meal.total_recommendations == 1 ? "s" : "") + " this meal."
-			link = "https://www.mars-score.com/restaurants/" + params[:restaurant_id] + "/meals/" + meal.id
+			link = "https://mars-score.herokuapp.com/restaurants/" + params[:restaurant_id] + "/meals/" + meal.id
 			
 			# If the meal image is available, use it, otherwise use the restaurant image. If neither are available, then use the logo image.
 			if meal.image_url
@@ -187,7 +187,7 @@ class MealsController < ApplicationController
 			elsif meal.restaurant.image_url
 				share_image_url = view_context.image_path(meal.restaurant.image_url)
 			else
-				share_image_url = "https://www.mars-score.com" + view_context.image_path("mars_logo_large.png")
+				share_image_url = "https://mars-score.herokuapp.com" + view_context.image_path("mars_logo_large.png")
 			end
 			
 			# Attempt to post to the user's wall.
@@ -214,7 +214,7 @@ class MealsController < ApplicationController
 			
 			Bitly.use_api_version_3
 			bitly = Bitly.new(ENV["BITLY_USERNAME"],ENV["BITLY_KEY"])
-			bitly_url = bitly.shorten("https://www.mars-score.com/restaurants/" + params[:restaurant_id] + "/meals/" + meal.id)
+			bitly_url = bitly.shorten("https://mars-score.herokuapp.com/restaurants/" + params[:restaurant_id] + "/meals/" + meal.id)
 			
 			begin
 				callback = client.update(recommend_string.capitalize +  " " + meal.meal_name + " at " + restaurant_name + "(" + restaurant_location + ") " + bitly_url.short_url)
