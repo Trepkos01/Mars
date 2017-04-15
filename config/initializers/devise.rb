@@ -16,13 +16,13 @@ Devise.setup do |config|
   # Configure the e-mail address which will be shown in Devise::Mailer,
   # note that it will be overwritten if you use your own mailer class
   # with default "from" parameter.
-  config.mailer_sender = 'please-change-me-at-config-initializers-devise@example.com'
+  config.mailer_sender = 'postmaster@blakeadams.io'
 
   # Configure the class responsible to send e-mails.
   # config.mailer = 'Devise::Mailer'
 
   # Configure the parent class responsible to send e-mails.
-  # config.parent_mailer = 'ActionMailer::Base'
+  config.parent_mailer = 'ActionMailer::Base'
 
   # ==> ORM configuration
   # Load and configure the ORM. Supports :active_record (default) and
@@ -279,10 +279,17 @@ Devise.setup do |config|
 			ssl_options[:ca_path] = '/etc/ssl/certs' if Rails.env.development?
 			ssl_options[:ca_file] = ca_file
 
-			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email publish_actions',
-					:client_options => {:ssl => ssl_options}
+			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email publish_actions', info_fields: 'name,email',
+					client_options: {
+									site: 'https://graph.facebook.com/v2.6',
+									authorize_url: "https://www.facebook.com/v2.6/dialog/oauth"
+									}, token_params: { parse: :json }
 	else
-			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email publish_actions', info_fields: 'name,email'
+			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email publish_actions', info_fields: 'name,email',
+				client_options: {
+									site: 'https://graph.facebook.com/v2.6',
+									authorize_url: "https://www.facebook.com/v2.6/dialog/oauth"
+									}, token_params: { parse: :json }
 	end
 	
   config.omniauth :twitter, ENV["TWITTER_ID"], ENV["TWITTER_SECRET"], scope: 'email'
