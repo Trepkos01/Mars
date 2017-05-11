@@ -1,0 +1,317 @@
+Barber Restaurant Equipment;2839 S Eason Blvd, Tupelo, MS;34.2355301;-88.6884166
+Harvey's Restaurant;424 S Gloster St, Tupelo, MS;34.2504963;-88.7160387
+Peking Restaurant;365 S Gloster St, Tupelo, MS;34.2533533;-88.71596339999999
+Cancun Mexican Restaurant;201 N Gloster St, Tupelo, MS;34.257996;-88.7159109
+Mist Asian Restaurant & Bar;1203 N Gloster St H, Tupelo, MS;34.2806634;-88.716481
+Woody's Restaurant & Lounge;619 N Gloster St, Tupelo, MS;34.2661401;-88.7160299
+Olive Garden Italian Restaurant;3242 N Gloster St, Tupelo, MS;34.30037009999999;-88.70683919999999
+Don Julio Tex Mex Restaurant;837 Kings Crossing Dr 12, Tupelo, MS;34.3114741;-88.7055543
+Spencer's Restaurant;1177 N Eason Blvd, Tupelo, MS;34.2729896;-88.6434172
+Havenacres Restaurant;2959 Willie Moore Rd, Tupelo, MS;34.2102719;-88.7549576
+Finneys Restaurant;1009 W Main St, Tupelo, MS;34.2568675;-88.7190134
+Ken Jeter Store Equipment Inc;5124 Cliff Gookin Blvd, Tupelo, MS;34.2456478;-88.7726342
+Aunt B's Soul Food Restaurant;2750 S Green St, Tupelo, MS;34.224123;-88.72219
+Sabor Es Mexico Restaurant;831 N Gloster St, Tupelo, MS;34.2695611;-88.71568309999999
+Shogun Japanese Restaurant;725 N Gloster St, Tupelo, MS;34.2678147;-88.7161028
+Saltillo Restaurant Supply;109B Town Creek Dr, Saltillo, MS;34.3723668;-88.70056
+Zapata Mexican Restaurant;2434 W Main StSte A, Tupelo, MS;34.2562252;-88.74323900000002
+Park Heights Restaurant;335 E Main St, Tupelo, MS;34.2577262;-88.7013219
+A Gold Star Chinese Restaurant;1153 S Gloster St, Tupelo, MS;34.2314578;-88.719439
+Logan's Roadhouse;3954 N Gloster St, Tupelo, MS;34.3107184;-88.7063397
+J R's Restaurant & Lounge;825 N Gloster St, Tupelo, MS;34.2695591;-88.7159744
+Hardee's;5016 Raymond Ave, Tupelo, MS;34.19476;-88.7195229
+Taco Bell;884 Barnes Crossing Rd, Tupelo, MS;34.3155376;-88.7047573
+Cracker Barrel Old Country Store;1270 Cross Creek Dr, Saltillo, MS;34.3166217;-88.6973314
+McDonald's;599 S Gloster St, Tupelo, MS;34.2487041;-88.71721579999999
+Grill - Fairpark;343 E Main St A, Tupelo, MS;34.2577306;-88.7008865
+Little Caesars Pizza;2434 W Main St, Tupelo, MS;34.2562252;-88.74323900000002
+Wendy's;2435 W Main St, Tupelo, MS;34.255273;-88.74439339999999
+Chuck E. Cheese's;4383 Mall Dr, Tupelo, MS;34.3143115;-88.7036521
+Abner's;3282 N Gloster St, Tupelo, MS;34.3009756;-88.7067022
+IHOP;3965 N Gloster St, Tupelo, MS;34.3107531;-88.7074805
+Papa John's Pizza;2200 W Main St, Tupelo, MS;34.2563076;-88.7382761
+La Carreta;2307 W Main St, Tupelo, MS;34.2558101;-88.7422675
+Las Margaritas;123 S Industrial Rd, Tupelo, MS;34.253672;-88.7199991
+Wingstop;2590 W Main St, Tupelo, MS;34.2556409;-88.746872
+Malibu's;2246 S Green St, Tupelo, MS;34.2262638;-88.7148691
+Peppers Express;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+New China;2218 W Main St, Tupelo, MS;34.2562777;-88.7386892
+Panda Express;3940 N Gloster St, Tupelo, MS;34.3136108;-88.70680949999999
+C H Tenders Place;831 S Gloster St, Tupelo, MS;34.24339459999999;-88.71754279999999
+Unique Treets;514 S Gloster St, Tupelo, MS;34.2493963;-88.71659149999999
+Las Margaritas Mexican Rstrnt;3952 N Gloster St, Tupelo, MS;34.3103218;-88.7050761
+Harveys;424 S Gloster St, Tupelo, MS;34.2504963;-88.7160387
+Chuck E Cheese's;4368 Mall Dr, Tupelo, MS;34.3131696;-88.7026523
+Firehouse Subs West Tupelo;2438 W Main St, Tupelo, MS;34.2560165;-88.74425029999999
+Outback Tupelo;1348 N. Gloster Street, Tupelo, MS;34.2825199;-88.7148385
+La Carreta;2307 W Main St, Tupelo, MS;34.2558101;-88.7422675
+Las Margaritas;123 S Industrial Rd, Tupelo, MS;34.253672;-88.7199991
+Wingstop;2590 W Main St, Tupelo, MS;34.2556409;-88.746872
+Chuck E Cheese's;4368 Mall Dr, Tupelo, MS;34.3131696;-88.7026523
+Firehouse Subs West Tupelo;2438 W Main St, Tupelo, MS;34.2560165;-88.74425029999999
+Outback Tupelo;1348 N. Gloster Street, Tupelo, MS;34.2825199;-88.7148385
+O'Charley's;3876 N. Gloster Street, Tupelo, MS;34.3077179;-88.70633529999999
+Mi Toro Bravo;143 City Market Dr, Saltillo, MS;34.3710293;-88.70207339999999
+Sweet Peppers Deli;921 W Main St, Tupelo, MS;34.2568277;-88.71818499999999
+Mt Fuji Japanese Steakhouse;837 Kings Crossing Dr 1, Tupelo, MS;34.3114741;-88.7055543
+Finney's Sandwich Shop;1009 W Main St, Tupelo, MS;34.2568675;-88.7190134
+Five Guys;3982 N Gloster St U1, Tupelo, MS;34.3123714;-88.7037556
+Park Heights;335 E Main St, Tupelo, MS;34.2577262;-88.7013219
+Quiznos Sub;3952 N Gloster St, Tupelo, MS;34.3103218;-88.7050761
+Waffle House;722 S Gloster St, Tupelo, MS;34.24506170000001;-88.7167825
+Steak Escape;1001 Barnes Crossing Rd Ste 101, Tupelo, MS;34.3085524;-88.7016646
+Sonic;2608 West Main Street, Tupelo, MS;34.2550033;-88.7496388
+Baskin-Robbins;836 Harmony Ln, Tupelo, MS;34.3143446;-88.70630159999999
+Sonic Drive-In;3375 North Gloster Street, Tupelo, MS;34.3039119;-88.7080998
+Longhorn Steakhouse;3574 N Gloster St, Tupelo, MS;34.3039973;-88.7067759
+SUBWAY;1 Court Sq, Charleston, MS;34.0051;-90.0552
+Hardee's;2439 W Main St, Tupelo, MS;34.2552061;-88.74544759999999
+Sonic;3529 Mccullough Boulevard, Tupelo, MS;34.3050547;-88.7807869
+Sam's Corner Kitchen & Deli;2126 W Jackson St, Tupelo, MS;34.2647175;-88.7549214
+Chick-Fil-A;830 S Gloster St, Tupelo, MS;34.2423449;-88.7159832
+Kyoto Japanese Steakhouse;1044 Commonwealth Blvd, Tupelo, MS;34.2978227;-88.7035677
+Steak Escape;1723 N Gloster St, Tupelo, MS;34.2839179;-88.7157984
+Main Street Deli;1210 W Main St, Tupelo, MS;34.2562891;-88.72525139999999
+Knights Drive Inn;2290 Mccullough Blvd, Tupelo, MS;34.2939418;-88.7605191
+Bar-B-Q By Jim;203 Commerce St, Tupelo, MS;34.2598736;-88.70207820000002
+Nate's Restaurant;2632 Main St, Plantersville, MS;34.2077763;-88.6634323
+Subway;810 E Main St, Tupelo, MS;34.2570102;-88.68583459999999
+Subway;830 S Gloster St, Tupelo, MS;34.2423449;-88.7159832
+Arby's;606 S Gloster St, Tupelo, MS;34.2476976;-88.71634809999999
+Subway;115 N Thomas St, Tupelo, MS;34.2561587;-88.7468318
+Captain D's Seafood;833 S Gloster St, Tupelo, MS;34.2421723;-88.71844639999999
+Subway;3903 N Gloster St, Tupelo, MS;34.3080594;-88.7094996
+Hardee's;477 E Main St, Tupelo, MS;34.2579778;-88.6957087
+Subway;707 S Gloster St, Tupelo, MS;34.2463814;-88.718189
+Subway Management Office;1002 E Main St, Tupelo, MS;34.2572278;-88.68204469999999
+Subway;2270 W Main St, Tupelo, MS;34.2581009;-88.7412749
+Hardins Country Store;1015 Road 1498, Tupelo, MS;34.3243501;-88.5756581
+Chick-Fil-A;908 Barnes Crossing Rd, Tupelo, MS;34.315561;-88.7038311
+Baskin-Robbins;1011 W Main St, Tupelo, MS;34.2568648;-88.719309
+Pizza Hut;974 Barnes Crossing Rd, Tupelo, MS;34.3155654;-88.7029621
+Cici's Pizza;3870 Market Ctr Dr, Tupelo, MS;34.307649;-88.705185
+Burger King;840 W Main St, Tupelo, MS;34.257679;-88.7165626
+Chili's Grill & Bar;3196 N Gloster St, Tupelo, MS;34.2980585;-88.7077511
+Chick-Fil-A;1001 Barnes Crossing Rd 14, Tupelo, MS;34.3085524;-88.7016646
+KFC;508 N Gloster St, Tupelo, MS;34.2643298;-88.7152797
+Pizza Hut;2222 W Main St, Tupelo, MS;34.2564363;-88.7391821
+Applebee's;885 Barnes Crossing Rd, Tupelo, MS;34.3155373;-88.7047767
+Pizza Hut;921 S Gloster St, Tupelo, MS;34.2398634;-88.71863599999999
+Burger King;847 Barnes Crossing Rd, Tupelo, MS;34.3155293;-88.7055204
+Comer's Restaurant;1733 Hwy 178, Mantachie, MS;34.2647924;-88.5444722
+Captain D's Seafood;3588 N Gloster St, Tupelo, MS;34.3044645;-88.7067725
+Wendy's;3324 N Gloster St, Tupelo, MS;34.3013614;-88.7066852
+Popeye's Chicken & Biscuits;1701 S Gloster St, Tupelo, MS;34.2191028;-88.71946229999999
+Waffle House;3994 N Gloster St, Tupelo, MS;34.3145429;-88.7062954
+Sbarro;1001 Barnes Crossing Rd Ste 52, Tupelo, MS;34.3085524;-88.7016646
+Wendy's;368 S Gloster St, Tupelo, MS;34.2530626;-88.71552439999999
+Captain D's Seafood;3281 N Gloster St, Tupelo, MS;34.3025601;-88.70743689999999
+Red Lobster;895 Barnes Crossing Rd, Tupelo, MS;34.3155592;-88.7038855
+Stables Downtown Grill;206 N Spring St, Tupelo, MS;34.2585933;-88.70416639999999
+China Garden;150 S Industrial Rd, Tupelo, MS;34.253632;-88.7199991
+Shoney's;706 Hillcrest Dr, Tupelo, MS;34.2767103;-88.7149843
+Mc Donald's;519 S Gloster St, Tupelo, MS;34.2486609;-88.7170646
+Bonanza Steakhouse;550 N Gloster St, Tupelo, MS;34.2644121;-88.71566770000001
+Mc Donald's;2465 W Main St, Tupelo, MS;34.2550991;-88.74591219999999
+Latin Quarters Rstrnt & Lounge;124 W Main St, Tupelo, MS;34.2574665;-88.7035511
+Yummy Yogurt;142 S Industrial Rd, Tupelo, MS;34.253672;-88.7199991
+KFC;2602 W Main St, Tupelo, MS;34.2552596;-88.7480276
+Kentucky Fried Chicken;903 S Gloster St, Tupelo, MS;34.240706;-88.7184525
+Thai Garden Restaurant;1014 Commonwealth Blvd, Tupelo, MS;34.297953;-88.70481699999999
+Domino's;1221 S Gloster St, Tupelo, MS;34.22658380000001;-88.72031880000002
+Taco Bell;600 S Gloster St, Tupelo, MS;34.2482584;-88.71631350000001
+Vanelli's Bistro;206 W Main St, Tupelo, MS;34.2575621;-88.7047721
+Atlanta Bar & Grill;202 W Main St, Tupelo, MS;34.2577226;-88.7046022
+Mc Donald's;1710 S Gloster St, Tupelo, MS;34.2177571;-88.71990249999999
+Mc Donald's;3835 N Gloster St, Tupelo, MS;34.3067775;-88.7077345
+Riley's Restaurants;118 Pine St, Nettleton, MS;34.0896255;-88.6265796
+Nautical Whimsey Italian;210 W Main St, Tupelo, MS;34.2577304;-88.7049583
+Peppertown Restaurant;21 Highway 363, Mantachie, MS;34.25770809999999;-88.4559558
+Los Compadres Restaurant;410 Interchange Dr, Fulton, MS;34.2406299;-88.40078770000001
+Honey Baked Ham;499 Gloster Creek Vlg Ste B8, Tupelo, MS;34.2521581;-88.7182479
+Kermit's Outlaw Kitchen;124 W Main St, Tupelo, MS;34.2574665;-88.7035511
+Bombay Grill;365 S Gloster St, Tupelo, MS;34.2533533;-88.71596339999999
+Jimmy Seaside Fries;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+Neon;339 E Main St, Tupelo, MS;34.2575469;-88.6994599
+Los Portrillos;713 S Gloster St, Tupelo, MS;34.2457097;-88.71777019999999
+Rita's Grill & Bar;789 Moncrief Dr, Tupelo, MS;34.3102193;-88.70839699999999
+H W Lewis Store Equipment INC;1223 Nelle St, Tupelo, MS;34.2579774;-88.7255217
+Which Wich Superior Sandwiches;3999 N Gloster St C, Tupelo, MS;34.3148814;-88.7067364
+In Season;1323 Ida St, Tupelo, MS;34.252125;-88.72496100000001
+Bar-B-Q By Jim Smokehouse;203 Commerce St, Tupelo, MS;34.2598736;-88.70207820000002
+South;706 Hillcrest Dr, Tupelo, MS;34.2767103;-88.7149843
+Weezies;2307 W Main St, Tupelo, MS;34.2558101;-88.7422675
+Decasa Grill;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+Bumpers;1155 S Gloster St, Tupelo, MS;34.2313928;-88.7199361
+Jazz Cafe;701 S Gloster St, Tupelo, MS;34.2466975;-88.71701689999999
+Ruth;499 Gloster Creek Vlg # I2, Tupelo, MS;34.2521581;-88.7182479
+La Tienda 3 Estrella;1250 W Main St, Tupelo, MS;34.2561467;-88.7284371
+Newk's;3974 N Gloster ST, Tupelo, MS;34.3141379;-88.7067795
+Jp's Downtown;316 N Spring St, Tupelo, MS;34.2597586;-88.7044781
+Hudson Management Corp;144 S Thomas St, Tupelo, MS;34.2533383;-88.7454348
+The Village Green;1210 W Main St, Tupelo, MS;34.2562891;-88.72525139999999
+Hottlanta Wings & Waffles;2702 S Gloster St, Tupelo, MS;34.2060625;-88.7201098
+Paul's Northside Rstrnt INC;852 N Gloster St # 8, Tupelo, MS;34.270801;-88.7138626
+Chef's Kitchen;2447 S Eason Blvd, Tupelo, MS;34.2353679;-88.6817988
+Ole State Grill;704 N Gloster St, Tupelo, MS;34.2664588;-88.7153536
+Hibachi Super Buffet;803 S Gloster St, Tupelo, MS;34.2443059;-88.71738839999999
+D L J C;701 S Gloster St, Tupelo, MS;34.2466975;-88.71701689999999
+El Pacifico;105 Rankin Blvd Ext, Tupelo, MS;34.2582103;-88.7205852
+Gabriels On Gloster;704 N Gloster St, Tupelo, MS;34.2664588;-88.7153536
+Metcalf'e;277 Cdf Blvd, Tupelo, MS;34.162143;-88.7039253
+Fred Reds Steaks;1111 Belledeer Dr, Tupelo, MS;34.272898;-88.71861799999999
+Chatterbox Cafe;628 N Spring St, Tupelo, MS;34.26746809999999;-88.7067611
+Johnnie's Drive In;908 E Main St, Tupelo, MS;34.2572345;-88.68241499999999
+Decasa Ranch & Grill;713 S Gloster St, Tupelo, MS;34.2457097;-88.71777019999999
+N J Mentor;2750 S Green St, Tupelo, MS;34.224123;-88.72219
+Klen's Kountry Kitchen-Ktrng;1303 N Green St, Tupelo, MS;34.2756542;-88.70975349999999
+Salsarita's Fresh Cantina;3356 N Gloster St, Tupelo, MS;34.3030669;-88.7062467
+Cafe 212;212 W Main St, Tupelo, MS;34.2577295;-88.7050366
+Mugshots;374 E Main St, Tupelo, MS;34.2574337;-88.69913629999999
+Cef Enterprises;773 Senter St, Tupelo, MS;34.2219504;-88.71650009999999
+Grady's;501 Daybrite Dr, Tupelo, MS;34.2476487;-88.70759149999999
+Ruff Business Systems;499 S Gloster St, Tupelo, MS;34.2521581;-88.7182479
+Southern Fish & Steak;150 S Industrial Rd, Tupelo, MS;34.253632;-88.7199991
+I D K LLC;205 N Gloster St, Tupelo, MS;34.2582338;-88.71596509999999
+Arbol De La Vida;541 W Main St, Tupelo, MS;34.2573532;-88.710392
+JP's Funky Little Shack;205 N Gloster St, Tupelo, MS;34.2582338;-88.71596509999999
+Krispy Krunchy At Barnes;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+Flat Tire Grille;The Mall At Barnes Xing, Tupelo, MS;34.308438;-88.70181099999999
+Bim Bam Burgers & Wings;312 S Gloster St, Tupelo, MS;34.2540631;-88.7158532
+Corey's Smokehouse;2702 S Gloster St, Tupelo, MS;34.2060625;-88.7201098
+James Bryan;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+Los Torros;1260 Oakview Dr, Tupelo, MS;34.2825539;-88.6752794
+Lostors;364 S Gloster St, Tupelo, MS;34.2533654;-88.71596149999999
+Sams Southern Eatery;831 S Gloster St, Tupelo, MS;34.24339459999999;-88.71754279999999
+Homer's Steaks;825 W Jefferson St, Tupelo, MS;34.258824;-88.71691950000002
+El Vera Cruz;2810 Highway 178, Tupelo, MS;34.2645272;-88.6396449
+D' Casa;2606 W Main St, Tupelo, MS;34.2547183;-88.7488164
+Taqueria La Familia LLC;2810 Highway 178, Tupelo, MS;34.2645272;-88.6396449
+De Lighthouse;202 W Main St, Tupelo, MS;34.2577226;-88.7046022
+Sake Japanese Express;3905 N Gloster St, Tupelo, MS;34.3130586;-88.7068419
+Sodexo Inc;201 N Broadway St, Tupelo, MS;34.2584105;-88.70571129999999
+Dark-N-Lovely's Kitchen;2447 S Eason Blvd, Tupelo, MS;34.2353679;-88.6817988
+Taziki's Mediterranean Cafe;3982 N Gloster St U-2, Tupelo, MS;34.3123714;-88.7037556
+Jake's Restaurant;655 N Church St, Okolona, MS;34.0172198;-88.7551941
+Tupelo Two Go;931 S Green St, Tupelo, MS;34.2499619;-88.7068108
+Dickey's Barbecue Pit;3946 N Gloster St, Tupelo, MS;34.3101494;-88.70470809999999
+Mc Donald's;2555 Highway 145, Saltillo, MS;34.3712348;-88.7015242
+Mc Donald's;4601 Mccullough Blvd, Tupelo, MS;34.31632889999999;-88.7914638
+Pizza Inn;189 Mobile St, Saltillo, MS;34.3780796;-88.69511779999999
+Water Front Restaurant;635 Joe Wheeler Brown Rd, Fulton, MS;34.2958577;-88.4133664
+Live From the Kitchen;316 N Spring St, Tupelo, MS;34.2597586;-88.7044781
+Barbeque By Jim;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+Bishop's BBQ Grill;3018 Mccullough Blvd, Belden, MS;34.2998717;-88.7740175
+Malibu Wings;1001 Barnes Crossing Rd Ste 171, Tupelo, MS;34.3085524;-88.7016646
+Bishop's B B Q Grill;1100 W Main St, Tupelo, MS;34.2572607;-88.7207378
+Rib Cage Of Tupelo;206 Troy St, Tupelo, MS;34.2567909;-88.7050064
+Crossroads Rib Shack;3061 Tupelo Commons, Tupelo, MS;34.3001016;-88.7029283
+Creative Cakes & Supplies;1422 E Main St, Tupelo, MS;34.2575225;-88.6746091
+Crossroads Rib Shack;3061 Tupelo Commons, Tupelo, MS;34.3001016;-88.7029283
+Creative Cakes & Supplies;1422 E Main St, Tupelo, MS;34.2575225;-88.6746091
+Sao Thai;725 N Gloster St, Tupelo, MS;34.2678147;-88.7161028
+Los Compadres;2546 Hwy 145, Saltillo, MS;34.370914;-88.6996023
+Bamboo House;1001 Barnes Crossing Rd, Tupelo, MS;34.3085524;-88.7016646
+Brody's Family Restaurant;113 S Church St, Okolona, MS;34.0033874;-88.75570119999999
+Buffalo Wild Wings Grill & Bar;3485 Tupelo Commons, Tupelo, MS;34.2982314;-88.7057109
+Wok & Roll;4980 Raymond Ave, Verona, MS;34.1982574;-88.7200355
+Johnny's Dairy Bar;263 County Rd 47, Verona, MS;34.1838758;-88.8159926
+Subway;4601 Mccullough Blvd # H, Tupelo, MS;34.31632889999999;-88.7914638
+Top Notch Pizza;1498 E Main St, Tupelo, MS;34.2575618;-88.6732576
+China Capital;530 N Gloster St, Tupelo, MS;34.263416;-88.7152639
+Cristy's Hamburgers;2250 W Main St, Tupelo, MS;34.2563032;-88.74036989999999
+Gi Gi's Cupcakes;3978 N Gloster St, Tupelo, MS;34.3124883;-88.70619239999999
+Goodtimes Charlies;2901 S Eason Blvd, Tupelo, MS;34.235174;-88.6894678
+Hong Kong;5375 Cliff Gookin Blvd, Tupelo, MS;34.2472316;-88.7726888
+Old Venice;3117 Mcullough Blvd, Tupelo, MS;34.3000218;-88.7755608
+Magic Wok Of Tupelo;1001 Barnes Crossing Rd Ste 82, Tupelo, MS;34.3085524;-88.7016646
+Earnest B's Barbecue;206 Troy St, Tupelo, MS;34.2567909;-88.7050064
+Taqueria La Familia;2810 Hwy 78, Tupelo, MS;34.2225075;-88.2947062
+Oishi Japanese Express;968 Barnes Crossing Rd, Tupelo, MS;34.3155654;-88.7029621
+Joe Joe's Espresso;1960 Mccullough Blvd, Tupelo, MS;34.2894484;-88.74624519999999
+Kraft Pizza Co;2725 Old Belden Cir, Tupelo, MS;34.2960737;-88.7641848
+Steele Dive;4187 W Main St, Tupelo, MS;34.2478366;-88.7782726
+Chopstick;150 S Industrial Rd, Tupelo, MS;34.253632;-88.7199991
+Pizza Pro;3870 Market Center Dr, Tupelo, MS;34.307649;-88.705185
+Gum Tree Cafe;501 Daybrite Dr, Tupelo, MS;34.2476487;-88.70759149999999
+Papa V's;438 E Main St, Tupelo, MS;34.2570452;-88.6976854
+Kirk's Grill;371 MS-15, Pontotoc, MS;34.2290924;-89.0055168
+SUBWAY;5035 Raymond Ave, Tupelo, MS;34.1932794;-88.7202838
+Tellini's Pasta Market;504 S Gloster St, Tupelo, MS;34.249975;-88.7164986
+Fruitalicious;111 N Spring St, Tupelo, MS;34.2579386;-88.7044331
+Neon Pig;1203 N Gloster St, Tupelo, MS;34.2806634;-88.716481
+Subway;129 Town Creek Dr, Saltillo, MS;34.3728116;-88.7012736
+Huddle House;108 Stone Creek Blvd, Tupelo, MS;34.2877578;-88.67500840000001
+Blue Canoe;2006 N Gloster St, Tupelo, MS;34.2889772;-88.7127099
+Hardee's;112 Willowbrook Dr, Saltillo, MS;34.3741235;-88.6999345
+Sonic Drive-In;169 Mobile Street, Saltillo, MS;34.3794791;-88.6946668
+Cotton Boll Catering;203 Commerce St, Tupelo, MS;34.2598736;-88.70207820000002
+Huddle House;3760 S Eason Blvd, Tupelo, MS;34.2363722;-88.7044682
+Garden Grille & Bar;363 E Main St, Tupelo, MS;34.2581525;-88.69998179999999
+Malco Tupelo Commons;3352 N Gloster St, Tupelo, MS;34.3028578;-88.707418
+Shipley Do-Nuts;920 S Gloster St, Tupelo, MS;34.2397565;-88.7181579
+Dreamland Ice Cream Parlor;2610 Beasley Dr, Tupelo, MS;34.215768;-88.75249319999999
+Fresh Market Cafe;1155 S Gloster St, Tupelo, MS;34.2313928;-88.7199361
+Mc Alister's Deli Select;830 S Gloster St, Tupelo, MS;34.2423449;-88.7159832
+Sweet Tea & Biscuits Cafe;2025 Mccullough Blvd, Tupelo, MS;34.28979500000001;-88.74833919999999
+Shade Tree Lounge;883 S Green St, Tupelo, MS;34.2448174;-88.7087559
+Todd's Downtown Deli;316 N Spring St, Tupelo, MS;34.2597586;-88.7044781
+Vaughn Enterprises;1277 Rowan Oak, Tupelo, MS;34.2766939;-88.77979309999999
+Cotton Boll Catering;203 Commerce St, Tupelo, MS;34.2598736;-88.70207820000002
+Huddle House;3760 S Eason Blvd, Tupelo, MS;34.2363722;-88.7044682
+Garden Grille & Bar;363 E Main St, Tupelo, MS;34.2581525;-88.69998179999999
+Malco Tupelo Commons;3352 N Gloster St, Tupelo, MS;34.3028578;-88.707418
+Shipley Do-Nuts;920 S Gloster St, Tupelo, MS;34.2397565;-88.7181579
+Dreamland Ice Cream Parlor;2610 Beasley Dr, Tupelo, MS;34.215768;-88.75249319999999
+Danver's;1101 W Main St, Tupelo, MS;34.2572607;-88.7207378
+Lost Pizza Co.;1203 N Gloster St # J, Tupelo, MS;34.2806634;-88.716481
+Old West Fish & Steak;574 Turner Dr, Tupelo, MS;34.2656022;-88.7990568
+El Toro Bravo Nettleton;198 W Main St, Nettleton, MS;34.0890158;-88.6250579
+New Beginnings;2321 Oak Leigh Dr, Tupelo, MS;34.2296427;-88.7388038
+Fugley's Sports Bar & Grill;4199 W Main St, Tupelo, MS;34.247777;-88.7784253
+Krispy Krunchy Chicken;905 Palmetto Rd, Tupelo, MS;34.1918168;-88.7640062
+Lucky Joe's Bar & Grill;124 W Main St, Tupelo, MS;34.2574665;-88.7035511
+Four Season;5375 Cliff Gookin Blvd, Tupelo, MS;34.2472316;-88.7726888
+Krispy Krunchy Chicken;4960 Raymond Ave, Tupelo, MS;34.19902880000001;-88.7200448
+Mamma's Bar & Grill;2228 Cliff Gookin Blvd, Tupelo, MS;34.2356643;-88.7655534
+Krispy Krunchy Chicken;923 Lawndale Dr, Tupelo, MS;34.2506758;-88.728757
+Pizza Inn;576 Hwy 371, Mooreville, MS;34.2800488;-88.5688255
+McAlister's Deli;495 S Gloster St, Tupelo, MS;34.2503896;-88.7164354
+Benjamins On Main;124 W Main St, Tupelo, MS;34.2574665;-88.7035511
+U & Me Asian Grocery;630 N Gloster St, Tupelo, MS;34.2660001;-88.7154946
+Romie's Grocery;804 W Jackson St, Tupelo, MS;34.2645336;-88.716022
+Honky Tonk;2228 Cliff Gookin Blvd, Tupelo, MS;34.2356643;-88.7655534
+Mi Pueblo;2563 Highway 15 N, Pontotoc, MS;34.2850605;-89.0274369
+SUBWAY;234 Main St, Nettleton, MS;34.0893016;-88.6224519
+Krispy Krunch;126 Highland Rdg, Saltillo, MS;34.3260069;-88.7251462
+New China;227 Hwy 15 N, Pontotoc, MS;34.2586149;-89.01804
+Long John Silver's;321 Highway 15 N, Pontotoc, MS;34.2654559;-89.02026269999999
+Bannum Place Of Tupelo;630 A And D Dr, Tupelo, MS;34.2484307;-88.7115812
+Joe Joe's Coffee;491 S Gloster St, Tupelo, MS;34.2504716;-88.71642229999999
+Yummy Yogurt;105 Rankin Blvd Ext # D, Tupelo, MS;34.2582103;-88.7205852
+Fireguard;615 Robert E Lee Dr, Tupelo, MS;34.2512802;-88.71295099999999
+Hometown Pizza;224 Highway 15 N, Pontotoc, MS;34.258361;-89.01803699999999
+Mi Pueblo;258 Turnpike Rd, Pontotoc, MS;34.2581474;-89.0197094
+Woody's Tupelo Steakhouse;619 N. Gloster, Tupelo, MS;34.2661401;-88.7160299
+Tucker's Place;3204 Highway 178, Mooreville, MS;34.2659804;-88.6134276
+Starbucks;2433 W Main St, Tupelo, MS;34.2552125;-88.7448608
+Taco Bell;2467 Highway 15 N, Pontotoc, MS;34.2842448;-89.0258671
+SUBWAY;2500 Highway 15 N, Pontotoc, MS;34.2868887;-89.02149849999999
+Tiger House;357 Mobile St, Saltillo, MS;34.3767676;-88.6844711
+Key Mart Chevron;1368 Road 931, Tupelo, MS;34.278344;-88.63690199999999
+Holley Restaurant;30264 Bigbee Cutoff Rd, Amory, MS;34.056101;-88.53395309999999
+Angie's Cafe;1228 Road 931, Tupelo, MS;34.3240971;-88.6240491
+Down Home Cooking;5184 Raymond Ave, Verona, MS;34.1822896;-88.7198363
+Lacabana;1177 N Eason Blvd, Tupelo, MS;34.2729896;-88.6434172
+Driskills;2450 Main St, Plantersville, MS;34.217214;-88.6654405
+Brew Ha's Bar & Grill;1818 S Eason Blvd, Tupelo, MS;34.2357232;-88.6739039
+Angie's Cafe;1228 Road 931, Tupelo, MS;34.3240971;-88.6240491
+Down Home Cooking;5184 Raymond Ave, Verona, MS;34.1822896;-88.7198363
+Lacabana;1177 N Eason Blvd, Tupelo, MS;34.2729896;-88.6434172
+Driskills;2450 Main St, Plantersville, MS;34.217214;-88.6654405
+Brew Ha's Bar & Grill;1818 S Eason Blvd, Tupelo, MS;34.2357232;-88.6739039
+KFC Kentucky Fried Chicken;104 Hwy 15 N, Pontotoc, MS;34.2488047;-89.01750729999999
+K O K;124 Main St, Tupelo, MS;34.2574665;-88.7035511
+Hobart Sales & Service;1223 Nelle St, Tupelo, MS;34.2579774;-88.7255217
+Subway;122 Hwy 15 N, Pontotoc, MS;34.2506873;-89.0170186
+Hardee's;124 Hwy 15 N, Pontotoc, MS;34.2511789;-89.0172957

@@ -1,0 +1,229 @@
+Mi Hacienda Mexican Restaurant;911 Highway 12 W 101A, Starkville, MS;33.4427887;-88.8497632
+Casa Bravo Mexican Restaurant;123 Highway 12 W, Starkville, MS;33.4538935;-88.8180036
+Abner's Restaurant;518 S Montgomery St, Starkville, MS;33.4554365;-88.8107153
+Restaurant Tyler;100 E Main St, Starkville, MS;33.463539;-88.8163208
+Thai Siam Restaurant;303 Dr Martin L King Jr Dr, Starkville, MS;33.4662533;-88.81258070000001
+Penn's Restaurant;106 Avenue Of Patriots St, Starkville, MS;33.4538046;-88.8330738
+Matty's Restaurant;217 E Main St, Starkville, MS;33.4641917;-88.8144119
+Pizza Hut;911 Highway 12 W 103A, Starkville, MS;33.4427887;-88.8497632
+Stromboli's;408 University Dr, Starkville, MS;33.4635388;-88.80906809999999
+Cotton District Cafe;106 Maxwell St, Starkville, MS;33.4597879;-88.802865
+Cotton District Cafe;106 Maxwell St, Starkville, MS;33.4597879;-88.802865
+Mexico Tipico INC;123 Highway 12 W, Starkville, MS;33.4538935;-88.8180036
+Taste Of China;608 Highway 12 E, Starkville, MS;33.4532652;-88.8076011
+Waffle House;1201 Greta Ln, Starkville, MS;33.4421525;-88.8504353
+Papa John's Pizza;500 Russell St Ste 4, Starkville, MS;33.4579392;-88.8050986
+Three Generations;217 N Jackson St, Starkville, MS;33.4664758;-88.8139097
+Wingstop;808 Highway 12 W, Starkville, MS;33.4500441;-88.8376511
+Panda Express;1004 Highway 12 W, Starkville, MS;33.4446918;-88.85010750000001
+Bulldog Deli;702 University Dr, Starkville, MS;33.4601988;-88.8017268
+Del Taco;500 Russell St, Starkville, MS;33.4579392;-88.8050986
+Sweet Peppers Deli;904 MS-12, Starkville, MS;33.444864;-88.84786369999999
+Three Generations;217 N Jackson St, Starkville, MS;33.4664758;-88.8139097
+Wingstop;808 Highway 12 W, Starkville, MS;33.4500441;-88.8376511
+Panda Express;1004 Highway 12 W, Starkville, MS;33.4446918;-88.85010750000001
+Petty's Carry Out;103 Highway 12 W, Starkville, MS;33.4544453;-88.8143601
+Bulldog Burger Co;702 University Dr, Starkville, MS;33.4601988;-88.8017268
+Bulldog Deli;702 University Dr, Starkville, MS;33.4601988;-88.8017268
+Zaxby's Chicken Fingers & Buffalo Wings;829 Highway 12 W, Starkville, MS;33.4485843;-88.8392417
+Buffalo Wild Wings Grill & Bar;703 Spring St, Starkville, MS;33.4556521;-88.80538109999999
+Central Station Grill;200 S Montgomery St, Starkville, MS;33.4620999;-88.8111531
+Central Station Grill;200 S Montgomery St, Starkville, MS;33.4620999;-88.8111531
+Subway;416 Highway 12 E, Starkville, MS;33.4539193;-88.8089445
+China Garden Chinese Rstrnt;821 Highway 12 W Ste A, Starkville, MS;33.4493579;-88.83811519999999
+Catfish One;605 S Jackson St, Starkville, MS;33.4551947;-88.8128622
+Umi Japanese Steakhouse;315 Highway 12 W, Starkville, MS;33.4525545;-88.8237838
+Denny's;500 Highway 12 E, Starkville, MS;33.4573749;-88.7992593
+Mugshots Grill & Bar;101 N Douglas Connor St, Starkville, MS;33.4640427;-88.8166012
+Subway;1010 Highway 12 W, Starkville, MS;33.4419433;-88.8519042
+Arby's;112 Highway 12 W, Starkville, MS;33.4543852;-88.81602459999999
+SUBWAY;210 N Jackson St, Starkville, MS;33.4667439;-88.81390549999999
+Captain D's Seafood;308 Hwy 12 E, Starkville, MS;33.4545221;-88.8086754
+Subway;1010 Highway 12 W, Starkville, MS;33.4419433;-88.8519042
+Arby's;112 Highway 12 W, Starkville, MS;33.4543852;-88.81602459999999
+SUBWAY;210 N Jackson St, Starkville, MS;33.4667439;-88.81390549999999
+Applebee's;814 Highway 12 W, Starkville, MS;33.4498583;-88.8379161
+Pizza Hut;211 Highway 12 W, Starkville, MS;33.4538086;-88.8199966
+Chili's Grill & Bar;125 Highway 12 W, Starkville, MS;33.4538883;-88.8180556
+Popeye's Chicken & Biscuits;814 Highway 12 W, Starkville, MS;33.4498583;-88.8379161
+Wendy's;102 Highway 12 W, Starkville, MS;33.4545718;-88.81418
+Firehouse Subs Middleton Court;327 Highway 12 W, Starkville, MS;33.4545372;-88.8092058
+Sonic;302 Highway 12 E, Starkville, MS;33.4542928;-88.8057299
+Zoca Mexican Restaurant;198 Lee Blvd, Miss State, MS;33.4548115;-88.79019579999999
+Oby's;504 Academy Rd, Starkville, MS;33.4404048;-88.81849849999999
+Popeye's Chicken & Biscuits;841 Hwy 12 W, Starkville, MS;33.4478092;-88.8409799
+Harveys;406 MS-12, Starkville, MS;33.4545218;-88.8086615
+Domino's;101 Highway 12 E, Starkville, MS;33.4548278;-88.81318329999999
+Burger King;Mississippi State University, Starkville, MS;33.4551742;-88.79437659999999
+Wendy's;100 Highway 12 E, Starkville, MS;33.4548641;-88.8141311
+KFC;127 Highway 12 W A, Starkville, MS;33.4536709;-88.81790699999999
+Taco Bell;207 Highway 12 W, Starkville, MS;33.4538099;-88.8199041
+Taco Bell;207 Highway 12 W, Starkville, MS;33.4538099;-88.8199041
+Gordo's Charcoal Rotesserie;108 Dr Martin Luther King Jr, Starkville, MS;33.4659511;-88.81606149999999
+Mc Donald's;505 Highway 12 E, Starkville, MS;33.4576251;-88.7994538
+Mc Donald's;817 Highway 12 W, Starkville, MS;33.4495458;-88.83783299999999
+Wing Stop;808 Highway 12 W, Starkville, MS;33.4500441;-88.8376511
+Belles;500 Russell St, Starkville, MS;33.4579392;-88.8050986
+Veranda;208 Lincoln Grn, Starkville, MS;33.4484416;-88.8061503
+Abner's;South Montgomery, Starkville, MS;33.4184167;-88.81034559999999
+Penn's Fish House;106 Avenue of Patriots St, Starkville, MS;33.4538046;-88.8330738
+Adams Eatery Llc;700 University Dr, Starkville, MS;33.4605232;-88.8022538
+Starkville Cafe;211 E Main St, Starkville, MS;33.4640817;-88.81463719999999
+Cake Box Eatery;60 Technology Blvd 100, Starkville, MS;33.471814;-88.7892651
+Inc Baluti;108 Dr Martin Luther King Jr Dr W, Starkville, MS;33.4659598;-88.81680209999999
+Newk's Express Cafe;132 Highway 12 W, Starkville, MS;33.4545443;-88.8128917
+Wtf;1246 Boyd Rd, Starkville, MS;33.4746881;-88.7605236
+Great American Grill at the Hilton Garden Inn;975 Hwy 12, Starkville, MS;33.4810131;-88.7969901
+Cook Out-Starkville Inc;112 Highway 12 W, Starkville, MS;33.4543852;-88.81602459999999
+Balcony;202 S Montgomery St, Starkville, MS;33.4620589;-88.81019769999999
+Salsarita's Fresh Cantina;87 Cotton Ln, Starkville, MS;33.4610095;-88.8044498
+Guest House;110 E Gillespie St, Starkville, MS;33.4580854;-88.81635179999999
+Adams Eatery Llc;700 University Dr, Starkville, MS;33.4605232;-88.8022538
+Burgundy Room;110 E Main St, Starkville, MS;33.4635542;-88.815811
+La Terraza;111 Eckford Dr, Starkville, MS;33.4537694;-88.81847069999999
+Cotton District Grill;200 S Montgomery St, Starkville, MS;33.4620999;-88.8111531
+Crush 'n;100 Russell St, Starkville, MS;33.4620464;-88.8089614
+Sushi On Main;101 N Jackson St, Starkville, MS;33.4641475;-88.8141282
+Dawg House Sports Grill;213 E Main St, Starkville, MS;33.4638613;-88.8145545
+Feng's Systems Inc;301 Maid Marian Rd, Starkville, MS;33.4448151;-88.80293189999999
+Jean Chinese Cafe Noodle Bowls & Gifts;12072 Ms Highway 182, Starkville, MS;33.4708421;-88.7654484
+Cathy's Restaurant;233 Hwy 45 S, West Pt, MS;33.6037977;-88.6597709
+City Bagel Cafe;511 University Dr, Starkville, MS;33.4633875;-88.8067532
+Little Caesars Pizza;620 Highway 12 E, Starkville, MS;33.4531549;-88.80700639999999
+Strange Brew Coffee House;605 Highway 12 E, Starkville, MS;33.4592573;-88.79823770000002
+Tony's BBQ;249 Mlk Jr Dr W, Starkville, MS;33.4655185;-88.82282359999999
+Moe's Original BBQ;110 E Main St, Starkville, MS;33.4635542;-88.815811
+Sonny's Real Pit Bar-B-Q;235 Sixteenth Section Rd, Starkville, MS;33.4804742;-88.7416058
+Vickie BBQ Pitts;100 Russell St, Starkville, MS;33.4620464;-88.8089614
+Big Daddy's Coffee House;101 N Jackson St, Starkville, MS;33.4641475;-88.8141282
+Cappe's Steakhouse;105 Eckford Dr, Starkville, MS;33.4531875;-88.8181876
+Great Wall;1146 E Lee Blvd, Starkville, MS;33.4640594;-88.7805559
+Beef O Bradys;1275 Stark Rd, Starkville, MS;33.4480459;-88.84524789999999
+Chick-Fil-A;PO Box 6229, Ms State Univ, MS;33.4555279;-88.7903868
+Jean Chinese Cafe Noodle Bowls;103 Rue Da Grand Fromage, Starkville, MS;33.460781;-88.8019238
+Abrom Shelton Abe's Barbeque;249 Dr Martin Luther King Jr Dr W, Starkville, MS;33.4655185;-88.82282359999999
+Oec Japanese Express;911 Highway 12 W, Starkville, MS;33.4427887;-88.8497632
+Christy's Hamburgers;446 Highway 12 W, Starkville, MS;33.4545217;-88.8086558
+Sake Japanese Express;831 Highway 12 W, Starkville, MS;33.4485786;-88.8392534
+Up Your Alley Tamales;701 University Dr, Starkville, MS;33.4607894;-88.8020255
+Lost Pizza Co;325 Highway 12 W, Starkville, MS;33.4545461;-88.8092386
+D's BBQ;249 Dr Martin Luther King Jr Dr W, Starkville, MS;33.4655185;-88.82282359999999
+Bin 612;612 University Dr, Starkville, MS;33.4607609;-88.8026488
+SUBWAY;85 Old Main St, Ms State Univ, MS;33.4528057;-88.7888418
+Bop's;127 Highway 12 W, Starkville, MS;33.4536709;-88.81790699999999
+Sushi Martini;700 University Dr, Starkville, MS;33.4605232;-88.8022538
+Huddle House;809 Highway 12 W, Starkville, MS;33.4478359;-88.8398302
+Subway;911 Hwy 12 W Ste 107A, Starkville, MS;33.4427887;-88.8497632
+Rubba Boot Crawfish Co;204 Highway 12 E, Starkville, MS;33.4544244;-88.80991739999999
+Champs Sports;700 University Dr, Starkville, MS;33.4605232;-88.8022538
+Ja Co Foods Inc;302 Highway 12 E, Starkville, MS;33.4542928;-88.8057299
+Bumpers Drive-In Of America;815 Highway 12 W, Starkville, MS;33.4496378;-88.83772069999999
+Shipley Donuts;418 Highway 12 E, Starkville, MS;33.4557731;-88.8004923
+Remmington's Hunt Club Bar;400 Highway 12 W, Starkville, MS;33.4545218;-88.8086623
+Stagger In;106 Maxwell St, Starkville, MS;33.4597879;-88.802865
+Old Venice Pizza Co;110 E Main St, Starkville, MS;33.4635542;-88.815811
+Pita Pit;104 W Main St, Starkville, MS;33.4640507;-88.816746
+Baskin-Robbins;868 Highway 12 W, Starkville, MS;33.4457479;-88.84502859999999
+Dark Horse Pizza Delivery;410 Martin Luther King Jr Dr W, Starkville, MS;33.4654837;-88.8250241
+Local Culture Frozen Yogurt;500 Russell St, Starkville, MS;33.4579392;-88.8050986
+Darkhorse Tavern;410 Dr Martin Luther King Dr, Starkville, MS;33.4657436;-88.80866089999999
+Hot Stuff Pizza;868 Highway 12 W, Starkville, MS;33.4457479;-88.84502859999999
+Sonic Drive-In;913 Highway 182 E, Starkville, MS;33.4685255;-88.7813602
+Dark Horse Pizza Delivery;410 Highway 82 W, Starkville, MS;33.4953581;-88.8188253
+Captin D's;1160 Highway 45 S, West Point, MS;33.59055;-88.6577107
+Brian Michaels Market & Deli;824 Highway 12 W Apt A, Starkville, MS;33.4495027;-88.8414346
+Biscuit Shop;600 S Jackson St, Starkville, MS;33.4556036;-88.8140075
+Neely's Takeout;76 Reverend Ware Rd, Starkville, MS;33.4893423;-88.7401531
+Subway;350 Hwy 45 S, West Pt, MS;33.6036003;-88.6585058
+Sonic;356 Highway 45 South, West Point, MS;33.6030243;-88.6584399
+Popeye's Chicken & Biscuits;226 Hwy 45 N, West Pt, MS;33.6083056;-88.65903790000002
+Dollar Tree;836 Highway 12 W, Starkville, MS;33.449379;-88.8421406
+Allen's Blue Rbbn BBQ & Blues;900 Artesia Rd, Starkville, MS;33.425901;-88.77616049999999
+Hardee's;229 Highway 45 S, West Point, MS;33.6043033;-88.6596196
+Morris's Barbecue & Steak Hse;1345 16th Section Rd, Starkville, MS;33.5090567;-88.7417486
+Trace-Way Restaurant;17990 U S Highway 82, Mathiston, MS;33.5430927;-89.1112148
+Allen's Blue Ribbon BBQ & Blue;14 Artesia Rd, Starkville, MS;33.4255467;-88.71570659999999
+McDonald's;143 Hwy 45 ALT S, West Pt, MS;33.6059244;-88.65966829999999
+Wendy's;312 Highway 45 N, West Point, MS;33.6095141;-88.6584788
+Starbucks;198 Lee Blvd, Miss State, MS;33.4548115;-88.79019579999999
+W M Steakhouse;646 Oliver Jackson Rd, Starkville, MS;33.4117711;-88.88161529999999
+State Fountain Bakery;150 Lee Blvd, Miss State, MS;33.4551779;-88.78681759999999
+KFC;US 45 Alt, West Point, MS;33.607597;-88.65904350000001
+Waffle House;1315 Highway 45 N, West Point, MS;33.5866569;-88.6596016
+A C's Eatery;16 S Front St, Artesia, MS;33.4155983;-88.64393969999999
+Domino's;327 Highway 45 S, West Point, MS;33.6094119;-88.65902220000001
+The New Main Street Market & Restaurant;26578 E Main St, West Point, MS;33.607099;-88.6392268
+Little Dooey;100 Fellowship St, Starkville, MS;33.4628451;-88.8074572
+L & S Vienna Beef;904 Highway 45 S, West Point, MS;33.5953245;-88.6586469
+J & F Soulfood;2092 Craig Springs Rd, Sturgis, MS;33.317446;-88.9287907
+Johnny's Restaurant;233 Marina Dr, Columbus, MS;33.5201905;-88.483519
+Stop Wash & Eat;3074 Highway 50 E, West Point, MS;33.6071244;-88.65996319999999
+Chad's Cafe;3388 Highway 50 W, West Point, MS;33.6071252;-88.6600797
+Smokey;3074 Highway 50 E, West Point, MS;33.6071244;-88.65996319999999
+Harris Family Restaurant;3903 Highway 50 E, West Point, MS;33.6074551;-88.7057165
+Cheung's Garden;127 Highway 45 S, West Point, MS;33.6062165;-88.6596703
+Country Kitchen;902 E Brame Ave, West Point, MS;33.5977377;-88.64013100000001
+Anthony's;122 W Main St, West Point, MS;33.6071134;-88.6508492
+Twisted Burnger Co;410 Emain St, West Point, MS;33.6070987;-88.64738539999999
+C H Tenders Place;525 Highway 45 N # Altn, West Point, MS;33.614778;-88.6585606
+Daylight Donuts;427 Highway 45 N, West Point, MS;33.6106772;-88.6590142
+Sarahs Sub & Kitchen;366 W Half Mile St, West Point, MS;33.6145014;-88.6561516
+Po Po's & Lil Angie's Barbecue;15 Craig Springs Rd, Sturgis, MS;33.3277335;-88.979596
+Cowbell's Sports Grill;1545 Saint Andrews Ln, Starkville, MS;33.4673507;-88.75148879999999
+No Way Jose;1035 Highway 45 N, West Point, MS;33.6206472;-88.6591246
+J B Res;2403 Waverly Dr, West Point, MS;33.5772434;-88.6138447
+Golden Horn;5286 N Frontage Rd, Columbus, MS;33.4817476;-88.5781093
+Stafford Big Burger;433 Hwy 45 N, West Pt, MS;33.6107531;-88.6590141
+La Fiesta Brava Mexican Rstrnt;419 Highway 45 N, West Point, MS;33.610576;-88.6590142
+Dot's BBQ;415 Commerce St, West Point, MS;33.6032195;-88.6473283
+Jerry's;17690 U S Highway 82, Mathiston, MS;33.5402245;-89.13824509999999
+China Buffet;102 Highway 45 N, West Point, MS;33.6072389;-88.6590506
+Dots BBQ;369 Highway 45 N, West Point, MS;33.6099433;-88.65901780000002
+Jack's;1612 HWY 45 N, Columbus, MS;33.513833;-88.433556
+Tony's-Main Street Cafe;201 W Main St, West Point, MS;33.6071288;-88.65191580000001
+Peking Chinese Restaurant;1614 US-45, Columbus, MS;33.5142736;-88.4335802
+Wing King;6984 Highway 45 Alt N, West Point, MS;33.6081185;-88.6585964
+Walco Mart;35 Rebecca St, Mathiston, MS;33.5413521;-89.1334376
+Shell Gas Mart;35 Rebecca St, Mathiston, MS;33.5413521;-89.1334376
+Larry's On The Go;1710 Highway 15, Maben, MS;33.5582922;-89.08066149999999
+Losencino Grill;51 Turner St, Maben, MS;33.5573521;-89.08186549999999
+Huddle House;230 Highway 45 S, West Point, MS;33.6040108;-88.65856289999999
+Buffalo Wild Wings Grill & Bar;2001 Highway 45 N, Columbus, MS;33.5217477;-88.437373
+Western Sizzlin Steakhouse;735 E Main St, West Point, MS;33.6071007;-88.64320320000002
+Subway;Highway 82, Mathiston, MS;33.5401724;-89.12422959999999
+Foodland;3430 Highway 50 W, West Point, MS;33.6160963;-88.7022463
+Weavers Family Restaurant;8540 Hwy 15 S, Ackerman, MS;33.3143571;-89.17694499999999
+Rick's Cafe;319 Highway 82 E # B, Starkville, MS;33.4671093;-88.8116785
+C J's Pizza of West Point;1249 Highway 45 S, West Point, MS;33.5904216;-88.6615964
+Paradise Isle Internet Cafe;415 W Main St, West Point, MS;33.607125;-88.6549369
+Gray's Pizza & Catering LLC;1125 E Main St, West Point, MS;33.6071157;-88.6343662
+Sopranos Cafe & Billiards;113 E Main St, West Point, MS;33.6071055;-88.650097
+Ritz Theater & Conference Ctr;125 Commerce St, West Point, MS;33.6063667;-88.64882589999999
+Bugg Street Barbecue & Carwash;130 Bugg St, West Point, MS;33.6114641;-88.6508649
+West Point Deli;443 N Division St, West Point, MS;33.6106933;-88.65042009999999
+Golden Star Chinese Restaurant;1404 Old Aberdeen Rd # 3, Columbus, MS;33.5115919;-88.4315771
+Tin Lizzie Cafe;1115 Hwy 45 N, West Pt, MS;33.590437;-88.659072
+Eat With US Group;104 3rd St S, Columbus, MS;33.4944739;-88.4310148
+Hoover's Bakery;128 Highway 45 S, West Point, MS;33.6059053;-88.6586387
+Krystal;808 Highway 12 W, Starkville, MS;33.4500441;-88.8376511
+Green Olive Italian Restaurant;441 Wilkins Wise Rd, Columbus, MS;33.5253466;-88.4368356
+Mi Hacienda Mexican Restaurant;1207 US-45, Columbus, MS;33.50781;-88.434507
+White's Catering Svc Llc;1400 Northwood Forest Rd, West Point, MS;33.6556307;-88.6688099
+Bojangles' Famous Chicken;500 Highway 12 E, Starkville, MS;33.4573749;-88.7992593
+Atlanta Bread Co;301 Maid Marian Rd, Starkville, MS;33.4448151;-88.80293189999999
+KFC;Us-45 Frontage Rd, Columbus, MS;33.4831372;-88.4900301
+Krispy Krunchy Chicken;8400 Highway 45 Alt N, West Point, MS;33.614778;-88.6585606
+Jones Restaurant;112 4th St S, Columbus, MS;33.4944113;-88.4295574
+Main Street Bar & Grill;197 Main St Crawford, Artesia, MS;33.3016681;-88.62050200000002
+Sonic Drive-In;815 Highway 12 W, Starkville, MS;33.4496378;-88.83772069999999
+J Broussard Restaurant;210 5th St S, Columbus, MS;33.4934441;-88.4281773
+Garfield's Restaurant & Pub;1404 Old Aberdeen Rd, Columbus, MS;33.5115919;-88.4315771
+Holiday Inn Express & Suites Georgetown;431 N Interstate 35, Georgetown, TX;30.6556158;-97.67699920000001
+J Broussard Restaurant;409 Main St, Columbus, MS;33.495408;-88.429199
+Bann Thai Restaurant;2212 Military Rd, Columbus, MS;33.520149;-88.40951779999999
+Mi Toro Mexican Restaurant;2420 US-45, Columbus, MS;33.536527;-88.4375144
+Krispy Krunchy Chicken;5890 Highway 45 Alt S, West Point, MS;33.6728724;-88.66747629999999
+Countryside Diner;10299 Palo Alto Rd, West Point, MS;33.6950152;-88.8080758
+Proffitt's Porch;1587 Officers Lake Rd, Columbus, MS;33.5566982;-88.4727139
+Hardee's;1460 Old Aberdeen Rd, Columbus, MS;33.5132391;-88.4327869
+SUBWAY;8720 Ms Highway 15, Ackerman, MS;33.3143571;-89.17694499999999

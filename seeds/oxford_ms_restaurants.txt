@@ -1,0 +1,230 @@
+City Grocery Restaurant Group;1005 N Lamar Blvd, Oxford, MS;34.376192;-89.51302299999999
+Abner's Restaurant;426 S Lamar Blvd Ste 25, Oxford, MS;34.3645916;-89.519669
+Abner's Restaurant;1927 Jackson Ave W, Oxford, MS;34.3641776;-89.5574608
+Krystal Restaurant;420 Highway 6 W, Oxford, MS;34.3497179;-89.71981199999999
+Valenti Mid-Atlantic Mgmt Inc;1904 Jackson Ave W, Oxford, MS;34.3636937;-89.55629569999999
+Bim Bam Burgers LLC;2204 Jackson Ave, Oxford, MS;34.3620013;-89.5620817
+Beacon Restaurant;1200 N Lamar Blvd, Oxford, MS;34.3775682;-89.51135850000001
+Lenora's Restaurant;309 N Lamar Blvd, Oxford, MS;34.3680536;-89.5188062
+Parrish's Bar & Restaurant;1102 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+J W Forrester's Restaurant;410 Jackson Ave E, Oxford, MS;34.3678764;-89.5260955
+The Rib Cage Of Oxford;311 S Lamar Blvd, Oxford, MS;34.3651113;-89.5187332
+Popeye's Chicken & Biscuits;1700 Belk Blvd, Oxford, MS;34.343512;-89.51304669999999
+Captain D's Seafood;2533 Jackson Ave W, Oxford, MS;34.3623645;-89.5663344
+Taco Bell;1726 University Ave, Oxford, MS;34.3625654;-89.5114748
+Moe's Southwest Grill;1414 Jackson Ave W, Oxford, MS;34.3668866;-89.5491926
+Boure Restaurant;110 Courthouse Square, Oxford, MS;34.3671203;-89.51912999999999
+Panera Bread;1902 Jackson Ave W, Oxford, MS;34.363982;-89.55579639999999
+Little Caesars Pizza;1725 University Ave, Oxford, MS;34.3637761;-89.51192499999999
+Long John Silver's;2195 Jackson Ave W, Oxford, MS;34.3633044;-89.56017969999999
+Coop De Ville;827 N Lamar Blvd, Oxford, MS;34.3752846;-89.51373579999999
+Big Bowl;1501 Jackson Ave W, Oxford, MS;34.367251;-89.5507013
+Maharaja Indian Cuisine;2570 Jackson Ave W 23, Oxford, MS;34.3603972;-89.56725349999999
+Papa John's Pizza;1506 Jackson Ave W, Oxford, MS;34.3660828;-89.5503647
+Wing Street;1506 University Ave, Oxford, MS;34.3632006;-89.5154853
+Chow Tyme Grill &Buffet;2142 Jackson Ave W, Oxford, MS;34.36277949999999;-89.5606687
+Chipotle Mexican Gril;2151 Jackson Ave W, Oxford, MS;34.3630839;-89.55946
+El Mariachi;2622 Jackson Ave W, Oxford, MS;34.36128040000001;-89.5692713
+Wingstop;1522 Jackson Ave W, Oxford, MS;34.3658774;-89.5510091
+Round Table;1008 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+Square Pizza;1101 Van Buren Ave, Oxford, MS;34.3662177;-89.5195969
+Square Pizza;1101 Van Buren Ave, Oxford, MS;34.3662177;-89.5195969
+Toyo Japanese Sushi Bar & Hibachi;2305 Jackson Ave W 207, Oxford, MS;34.3643176;-89.56313070000002
+El Milagro Taqueria Corp;1420 Jackson Ave W, Oxford, MS;34.3665764;-89.5496976
+Abner's Famous Chicken Tenders;430 S Lamar Blvd, Oxford, MS;34.3643659;-89.5195348
+Zaxby's Chicken Fingers & Buffalo Wings;2574 Jackson Ave W, Oxford, MS;34.3614922;-89.56655370000001
+Cracker Barrel Old Country Str;222 Olde Castle Loop, Oxford, MS;34.32570219999999;-89.5207698
+Buffalo Wild Wings Grill & Bar;2315 Jackson Ave W, Oxford, MS;34.3635793;-89.5644975
+Emileigh's Kitchen;401 South Lamar Blvd, Oxford, MS;34.3649519;-89.5186636
+Kabuki;1631 Jackson Ave W, Oxford, MS;34.3660457;-89.55315039999999
+Applebee's;1931 Jackson Ave W, Oxford, MS;34.3638836;-89.5584207
+IHOP;2152 Jackson Ave W, Oxford, MS;34.3621087;-89.5611665
+McAlister's Deli;1515 University Ave, Oxford, MS;34.3639439;-89.5161603
+SUBWAY;1514 Jackson Ave W, Oxford, MS;34.3664635;-89.55085009999999
+Firehouse Subs Jackson Ave;1501 Jackson Ave W 107, Oxford, MS;34.367251;-89.5507013
+Casa Mexicana Bar & Grill;1908 Jackson Ave W, Oxford, MS;34.3637364;-89.5573245
+Krispy Krunchy Chicken;1438 N Lamar Blvd, Oxford, MS;34.3839751;-89.5083092
+Chick-Fil-A;2307 Jackson Ave W, Oxford, MS;34.3626298;-89.5634394
+Pizza Den;499 Heritage Dr, Oxford, MS;34.366281;-89.5604085
+L & M's Kitchen;309 N Lamar Blvd Ste C, Oxford, MS;34.3680536;-89.5188062
+Subway;1948 University Ave, Oxford, MS;34.3619461;-89.50755509999999
+Subway;1948 University Ave, Oxford, MS;34.3619461;-89.50755509999999
+Captain D's Seafood;2622 Jackson Ave W, Oxford, MS;34.36128040000001;-89.5692713
+Subway;2530 Jackson Ave W, Oxford, MS;34.3596985;-89.5645579
+Chili's Grill & Bar;2576 Jackson Ave W, Oxford, MS;34.3619555;-89.56638
+Burger King;1741 University Ave, Oxford, MS;34.3633063;-89.5111081
+Pizza Hut;1506 University Ave, Oxford, MS;34.3632006;-89.5154853
+Sonic Drive-In;1207 University Ave, Oxford, MS;34.3642044;-89.51834889999999
+Wendy's;1904 Jackson Ave W, Oxford, MS;34.3636937;-89.55629569999999
+Subway;1091 Jackson Ave E Ste C, Oxford, MS;34.3672059;-89.52146069999999
+Panini;711 N Lamar Blvd, Oxford, MS;34.3746954;-89.5167802
+Wendy's;703 Sisk Ave, Oxford, MS;34.3735854;-89.4969342
+Domino's;1603 Jackson Ave W, Oxford, MS;34.366323;-89.55177859999999
+City Grocery;152 Courthouse Sq, Oxford, MS;34.3657923;-89.5193505
+Rooster's Blues House;114 Courthouse Square, Oxford, MS;34.3668176;-89.5194932
+KFC;2195 Jackson Ave W, Oxford, MS;34.3633044;-89.56017969999999
+Jimmy Johns;2206 Jackson Ave W, Oxford, MS;34.36197180000001;-89.5621711
+Mc Donald's;1900 University Ave, Oxford, MS;34.3621609;-89.5090573
+Mc Donald's;1803 Jackson Ave W, Oxford, MS;34.3649667;-89.5555333
+The Downtown Grill;110 Courthouse Sq, Oxford, MS;34.3671203;-89.51912999999999
+Mcewen's Oxford;1110 Van Buren Ave, Oxford, MS;34.3658249;-89.5195962
+Irie;122 Courthouse Sq, Oxford, MS;34.366644;-89.5194978
+Big Bad Breakfast;719 N Lamar Blvd, Oxford, MS;34.3734018;-89.51688320000001
+Mama Jo's Country Cookin;1503 Old Highway 7 N, Oxford, MS;34.3863424;-89.5065545
+Boure;110 Courthouse Square, Oxford, MS;34.3671203;-89.51912999999999
+Two Zero Eight South Lamar;208 S Lamar Blvd, Oxford, MS;34.3656748;-89.5190358
+Frank & Marles;1210 Harrison Ave, Oxford, MS;34.3654024;-89.51824649999999
+Oxford Burger;920 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+Second Line;208 S Lamar Blvd, Oxford, MS;34.3656748;-89.5190358
+B H Oxfords;1801 Jackson Ave W, Oxford, MS;34.3655906;-89.5539593
+Vasco Properties Inc;1516 S 10TH St, Oxford, MS;34.3560081;-89.5229672
+Wine Bar;401 S Lamar Blvd, Oxford, MS;34.3649519;-89.5186636
+Oliver Steak Company;1007 College Hill Rd, Oxford, MS;34.3868353;-89.5557793
+Corner;1002 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+Rafter's Bar & Grill;1000 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+Two Stick;1107 Jackson Ave E, Oxford, MS;34.3671873;-89.51949549999999
+England Dan's Char-Steaks;2580 Jackson Ave W, Oxford, MS;34.3602889;-89.5677865
+Wu Lisa;2580 Jackson Ave W, Oxford, MS;34.3602889;-89.5677865
+Mesquite Chop House;1001 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+Tekwani LLC;309 N Lamar Blvd # A, Oxford, MS;34.3680536;-89.5188062
+Volta Taverna;710 N Lamar Blvd, Oxford, MS;34.3732323;-89.51653549999999
+H2o Oxford Oriental Cafe;105 N 13th St, Oxford, MS;34.36686820000001;-89.5175783
+My Guys Biscuits & Barbeque;1700 Jackson Ave W, Oxford, MS;34.3651841;-89.5527609
+Route 6;10 County Road 307, Oxford, MS;34.35969730000001;-89.58086620000002
+Beagle Bagle Cafe;1801 Jackson Ave W, Oxford, MS;34.3655906;-89.5539593
+Waltz On The Square;1110 Van Buren Ave, Oxford, MS;34.3658249;-89.5195962
+Delta Steak Company;1007 College Hill Road, Oxford, MS;34.3868353;-89.5557793
+La Paz of Oxford;208 S Lamar Blvd, Oxford, MS;34.3656748;-89.5190358
+Kings Grill House;1007 College Hill Rd, Oxford, MS;34.3868353;-89.5557793
+Salsarita's Fresh Cantina;1801 Jackson Ave E, Oxford, MS;34.3654396;-89.508005
+Soul Food Kitchen;2028 University Ave, Oxford, MS;34.3610768;-89.5007749
+Gus's Fried Chicken;306 S Lamar Blvd, Oxford, MS;34.3653387;-89.519292
+Rib Cage Signing Day;311 S Lamar Blvd, Oxford, MS;34.3651113;-89.5187332
+Phillips Grocery;2406 S Lamar Blvd, Oxford, MS;34.3462933;-89.521547
+Pick Thai;1101 Frontage Rd, Oxford, MS;34.3529748;-89.52289189999999
+Mama Jo's Country Cookin;1503 N Lamar Blvd, Oxford, MS;34.385853;-89.50630799999999
+Library;120 S 11TH St, Oxford, MS;34.3661462;-89.51989239999999
+Danvers;206 Colonial Rd, Oxford, MS;34.3749302;-89.5427591
+Pretty Sweet;2311 Jackson Ave W, Oxford, MS;34.3633836;-89.5640117
+Wing Stop;1522 Jackson Ave W, Oxford, MS;34.3658774;-89.5510091
+Coffee Bistro;107 N 13th St, Oxford, MS;34.3667161;-89.5176419
+El Agave Mexican Grill;2305 Jackson Ave W 211, Oxford, MS;34.3643176;-89.56313070000002
+Rebel Pitas LLC;309 N Lamar Blvd, Oxford, MS;34.3680536;-89.5188062
+Hotwangs.com;2028 University Ave, Oxford, MS;34.3610768;-89.5007749
+Bacchus On The Square;1107 Jackson Ave E, Oxford, MS;34.3671873;-89.51949549999999
+La Perla Tapatia De Oxford;1912 University Ave, Oxford, MS;34.3623754;-89.5083097
+Snack Bar;110 Courthouse Sq, Oxford, MS;34.3671203;-89.51912999999999
+Tre Amici;1107 Jackson Ave E, Oxford, MS;34.3671873;-89.51949549999999
+Varsity Grille;308 S Lamar Blvd, Oxford, MS;34.3652456;-89.5193103
+The Little Dooey BBQ & Catfish;1414 Jackson Avenue West, Oxford, MS;34.3668866;-89.5491926
+Mr Feathers;10 Thacker Loop, Oxford, MS;34.35969730000001;-89.58086620000002
+Handy Andy Grocery;800 N Lamar Blvd, Oxford, MS;34.3742702;-89.515002
+Roasted;401 S Lamar Blvd, Oxford, MS;34.3649519;-89.5186636
+Newk's Express Cafe Galleria;2305 Jackson Ave W, Oxford, MS;34.3643176;-89.56313070000002
+Coop DeVille The;1417 Jackson Ave W, Oxford, MS;34.3670253;-89.54957069999999
+Lamar Lounge;1309 N Lamar Blvd, Oxford, MS;34.3795832;-89.51105350000002
+Danver's International;1107 Jackson Ave W, Oxford, MS;34.3698317;-89.5432556
+Cook Out-Ole Miss Inc;2195 Jackson Ave W, Oxford, MS;34.3633044;-89.56017969999999
+B's Hickory Smoke Bbq;825 College Hill Rd, Oxford, MS;34.379179;-89.5429379
+Dickey's Barbecue Pit;2311 Jackson Ave W, Oxford, MS;34.3633836;-89.5640117
+Wing Fanatic;2035 University Ave, Oxford, MS;34.3634987;-89.50333990000001
+Taylor Grocery & Restaurant;4 First St # A, Taylor, MS;34.2727702;-89.5881814
+Emver's Biscuits & Barbecue;1703 University Ave, Oxford, MS;34.3633544;-89.5130052
+Wing Street;1103 Jackson Ave W, Oxford, MS;34.3692686;-89.5456899
+Ajax Diner;118 Courthouse Sq, Oxford, MS;34.3666345;-89.5194678
+Andy's Steakhouse;1006 Jefferson Ave, Oxford, MS;34.3686607;-89.5197785
+Oby's;1931 University Ave, Oxford, MS;34.3627447;-89.508122
+Papitos Mexican Grill;2570 Jackson Ave W, Oxford, MS;34.3603972;-89.56725349999999
+Bungalow South Llc;14 County Road 307, Oxford, MS;34.3597877;-89.5807755
+New Hunan;2568 Jackson Ave W, Oxford, MS;34.3619579;-89.56634629999999
+Pizza Marketing Quarterly;605 Edison St, Oxford, MS;34.3775609;-89.4998854
+Wok To Go;1700 University Blvd, Jackson, MS;32.2832523;-90.2075722
+Sinfully Southern;3000 Old Taylor Rd, Oxford, MS;34.3287051;-89.56086619999999
+Petra Cafe;1101 Jackson Ave E, Oxford, MS;34.367179;-89.5195548
+Jinsei Sushi Bar & Lounge;713 N Lamar Blvd, Oxford, MS;34.3749755;-89.516611
+University Pizza Delivery;2030 University Ave, Oxford, MS;34.360989;-89.50060789999999
+Christy's Hamburgers;2204 Jackson Ave W, Oxford, MS;34.3620013;-89.5620817
+Bancock Tai;1101 Frontage Rd, Oxford, MS;34.3529748;-89.52289189999999
+Rice & Spice Thai Kitchen;1520 Jackson Ave W, Oxford, MS;34.3664014;-89.55099589999999
+Soulshine Pizza Co;308 S Lamar Blvd, Oxford, MS;34.3652456;-89.5193103
+Mundo Latino-The Taco Shop;1921 University Ave, Oxford, MS;34.36245;-89.5080784
+China Royal;1938 University Ave, Oxford, MS;34.3622804;-89.5077599
+Petra Cafe;512 Jackson Ave E, Oxford, MS;34.367722;-89.5250385
+South Depot Taco Shop;1004 Van Buren Ave., Oxford, MS;34.3659321;-89.52032469999999
+Huddle House;1925 Jackson Ave W, Oxford, MS;34.3643212;-89.55706830000001
+Bottletree Bakery;923 Van Buren Ave, Oxford, MS;34.3664454;-89.52064039999999
+Emileigh's Bakery;1703 University Ave, Oxford, MS;34.3633544;-89.5130052
+Lenny's Sub Shop;1414 Jackson Ave W, Oxford, MS;34.3668866;-89.5491926
+Fins Fish & Oyster Co;122 Courthouse Sq, Oxford, MS;34.366644;-89.5194978
+Shipley Do-Nuts;2151 S Lamar Blvd, Oxford, MS;34.3525663;-89.52071099999999
+Oyster And Seafood;1518 Jackson Ave W, Oxford, MS;34.3659702;-89.55065379999999
+Levee;1008 Jackson Ave E, Oxford, MS;34.3672059;-89.52146069999999
+Five Guys;2153 Jackson Ave W, Oxford, MS;34.3630771;-89.5594861
+Blue Magic Sports Bar & Grill;2110 Jackson Ave W, Oxford, MS;34.3630737;-89.559499
+Blue Marlin & Sneaky Tiki;309A N Lamar Blvd, Oxford, MS;34.3680536;-89.5188062
+Illusions Sports Bar and Grill;2110 West Jackson Avenue, Oxford, MS;34.3630737;-89.559499
+Newk's Cafe Express;1309 University Ave, Oxford, MS;34.3642211;-89.5177471
+Old Venice Pizza Co;1112 Van Buren Ave, Oxford, MS;34.3658134;-89.51950289999999
+Crawfish Time On Ridge;320 Rdg Rd, Lafayette, LA;30.181776;-92.0832689
+Tequila's Mexican Bar & Grill;2027 University Ave, Oxford, MS;34.3632097;-89.50280649999999
+Smoothie King;2311 Jackson Ave W # 307, Oxford, MS;34.3633836;-89.5640117
+Tcby;501 Bramlett Blvd, Oxford, MS;34.3644345;-89.5106766
+Holli's Sweet Tooth;400 S Lamar Blvd # C, Oxford, MS;34.3649061;-89.51940689999999
+Pita Pit;319 N Lamar Blvd 101, Oxford, MS;34.3682997;-89.51869599999999
+Ravine;53 County Road 321, Oxford, MS;34.3150848;-89.53497019999999
+Qdoba Mexican Grill;1 Student Union Dr, University, MS;34.3665352;-89.5330864
+Milletts Petit;215 Britton Dr, Oxford, MS;34.3959511;-89.5524641
+Forrester's J W Forrester's;123 Hillside Dr, Oxford, MS;34.365848;-89.57342020000002
+Sigma Nu Kitchen;61 Poole Dr, University, MS;34.3637457;-89.5414064
+Shak;10 County Road 307, Oxford, MS;34.35969730000001;-89.58086620000002
+Dixieland Bar BQ;283 County Road 101, Oxford, MS;34.4030535;-89.51656419999999
+Sigma Nu Kitchen;61 Poole Dr, University, MS;34.3637457;-89.5414064
+Shak;10 Thacker Heights Dr, Oxford, MS;34.35969730000001;-89.58086620000002
+Dollar Tree;2560 Jackson Ave W 15, Oxford, MS;34.3603405;-89.5668908
+Shak;10 County Road 107, Oxford, MS;34.3899566;-89.62324180000002
+Mink's On the Park;904 College Hill Rd., Oxford, MS;34.3800842;-89.54417629999999
+Pop's Pizzeria;266 County Road 101, Oxford, MS;34.3885519;-89.5066452
+Southside Gallery;150 Courthouse Square, Oxford, MS;34.3661294;-89.5192703
+Graduate Oxford;400 N Lamar Blvd, Oxford, MS;34.3688605;-89.5179838
+Checkers Drive-In Restaurant;425 S Lamar Blvd, Oxford, MS;34.3642188;-89.5189288
+Square Books;160 Courthouse Sq, Oxford, MS;34.3657553;-89.51906629999999
+H2O Oxford Oriental Cafe;1304 University Ave, Oxford, MS;34.3638977;-89.518029
+Ward's Short Stop;2502 Old Taylor Rd, Oxford, MS;34.3458239;-89.5439435
+Southern Refreshment Inc;487 County Rd 101, Oxford, MS;34.417251;-89.5210154
+Pizza Hut;1103 Jackson Ave W, Oxford, MS;34.3692686;-89.5456899
+Aunt M;485 Highway 6 W, Oxford, MS;34.359774;-89.591326
+Sizzler;582 Hwy 6 E, Oxford, MS;34.3334858;-89.41560299999999
+Krispy Krunchy Chicken;1042 Highway 7 N, Abbeville, MS;34.5011361;-89.5136101
+Abbeville Market;1042 Highway 7 N, Abbeville, MS;34.5011361;-89.5136101
+Turkuaz Cafe;28054 Hwy 6, Oxford, MS;34.3542926;-89.5193468
+Roly Poly Sandwiches;1921 University Ave, Oxford, MS;34.36245;-89.5080784
+Doe's Eat Place of Oxford Incorporated;400 N Lamar Blvd Ste 100, Oxford, MS;34.3688605;-89.5179838
+Pizza Hut;306 Highway 6 E, Batesville, MS;34.3107029;-89.942182
+Holiday Lodge Restaurant;218 Co Rd 517, Como, MS;34.510213;-89.6697499
+Roadhouse Kustomz LLC;28054 Highway 6 E, Sardis, MS;34.3410075;-89.741547
+Austin Management Inc;302 Highway 6 E, Batesville, MS;34.3108519;-89.9432819
+Yocona River Inn;842 Hwy 334, Oxford, MS;34.2806232;-89.4277805
+Sonic Drive-In;316 South Main, Water Valley, MS;34.1459416;-89.6353321
+Lunch Box;6 County Road 511, Como, MS;34.5265675;-89.65064470000002
+Mid-South Septic Tank Service;270 County Road 445, Oxford, MS;34.26383;-89.411749
+Krispy Krunchy Chicken;34443 Blackjack Rd, Sardis, MS;34.342553;-89.74748699999999
+Le Mojo's;101 N Main St, Water Valley, MS;34.1505771;-89.63251509999999
+Westerfield's Sdi Inc;1006 Hunt Rd, Batesville, MS;34.30596;-89.792516
+China Star Inc;327A S Main St, Water Valley, MS;34.1447577;-89.6351969
+D & D House of Barbecue;111 N Main St, Water Valley, MS;34.1868237;-89.6372588
+Hometown Pizza Cafe;407 N Main St, Water Valley, MS;34.1858028;-89.6377729
+Pizzagetti;407 N Main St, Water Valley, MS;34.1858028;-89.6377729
+Nallie's Place;903 Central St, Water Valley, MS;34.1575115;-89.6302572
+Jenkin's Cafe;609 Wise St, Water Valley, MS;34.1664779;-89.6374151
+Da Spot Cafe;609 Wise St, Water Valley, MS;34.1664779;-89.6374151
+Rasputan's Sandwich Shop;1012 Central St, Water Valley, MS;34.1640407;-89.6278066
+Doc's Table;14 S Main St, Water Valley, MS;34.15050799999999;-89.632623
+Between Friends;14 S Main St, Water Valley, MS;34.15050799999999;-89.632623
+Crawdad Hole;129 S Main St, Water Valley, MS;34.1479425;-89.6331938
+Laws Hill Fish House;3717 Laws Hill Rd, Holly Springs, MS;34.6081313;-89.5687086
+Treats & Sweets;28491 Highway 35, Sardis, MS;34.3905737;-89.81084109999999
+Pizza Pro;325 S Main St, Water Valley, MS;34.1447577;-89.6351969
+Sylvarena's Grocery and Bait Store;17608 Highway 32, Water Valley, MS;34.1220135;-89.7340131
+SUBWAY;337 S Main St, Water Valley, MS;34.1440763;-89.6348517
+China Star;327 S Main St, Water Valley, MS;34.1447577;-89.6351969
+Tangos World Championship BBQ;338 Oak Grove Rd, Sardis, MS;34.429806;-89.848388

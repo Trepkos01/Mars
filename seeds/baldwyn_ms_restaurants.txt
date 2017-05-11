@@ -1,0 +1,30 @@
+Country Inn Restaurants;600 Grisham St, Baldwyn, MS;34.50229789999999;-88.6549589
+Omar's Restaurant;766 Hwy 145 S, Baldwyn, MS;34.5619994;-88.6304394
+King's Family Restaurant;314 N Fourth St, Baldwyn, MS;34.5116724;-88.6347031
+Saltillo Restaurant Supply;109B Town Creek Dr, Saltillo, MS;34.3723668;-88.70056
+Sonic;701 Highway 45 South, Baldwyn, MS;34.5002361;-88.6396468
+The Country Inn Restaurant;690 Grisham St, Baldwyn, MS;34.5074902;-88.65730119999999
+Home Town Buffet;1159 N Frontage Rd, Baldwyn, MS;34.525671;-88.6551283
+Gurleys Restaurant;551 Banks St, Baldwyn, MS;34.5182097;-88.61631369999999
+Gurley's Restaurant;125 N Lee Dr, Guntown, MS;34.4570126;-88.6677096
+Subway;1159 N Frontage Rd, Baldwyn, MS;34.525671;-88.6551283
+Pizza Factory;709 Highway 145 S, Baldwyn, MS;34.5185809;-88.6331731
+Sonic Drive-In;1007 Ripley Rd, Baldwyn, MS;34.5247129;-88.6548978
+Ramey's Family Restaurant;416 Highway 371, Marietta, MS;34.5020781;-88.4686998
+Magnolia House Restaurant;1420 Hwy 145, Guntown, MS;34.4480923;-88.6654137
+Mc Donald's;990 Ripley Rd, Baldwyn, MS;34.524809;-88.6535991
+Don Julio's Texmex Restaurant;127 Booneville Trce, Booneville, MS;34.6787282;-88.5629505
+Mi Toro Mexican Restaurant;205 N 2nd St, Booneville, MS;34.659483;-88.5667795
+Don Julio Tex Mex Restaurant;837 Kings Crossing Dr 12, Tupelo, MS;34.3114741;-88.7055543
+Lamar's Bar B Que & Catering;730 S Fourth St, Baldwyn, MS;34.5012617;-88.64047769999999
+Thai Garden Restaurant;1014 Commonwealth Blvd, Tupelo, MS;34.297953;-88.70481699999999
+Lamar's Barbeque & Catering;730 Hwy 145 S, Baldwyn, MS;34.5012617;-88.64047769999999
+Pizza Factory;709 S Fourth St, Baldwyn, MS;34.5016187;-88.64025939999999
+By-Pass T-Mart;985 Ripley Rd, Baldwyn, MS;34.5233648;-88.6523677
+Olive Garden Italian Restaurant;3242 N Gloster St, Tupelo, MS;34.30037009999999;-88.70683919999999
+Bumpers Drive-In Of America;618 N Fourth St, Baldwyn, MS;34.5162556;-88.6333018
+Los Compadres;2546 Hwy 145, Saltillo, MS;34.370914;-88.6996023
+Bishop's Bbq Grill;2546 Highway 145, Saltillo, MS;34.370914;-88.6996023
+Pizza Inn;189 Mobile St, Saltillo, MS;34.3780796;-88.69511779999999
+Krispy Krunchy Chicken;620 N Fourth St, Baldwyn, MS;34.5163009;-88.6333342
+Peppertown Restaurant;21 Highway 363, Mantachie, MS;34.25770809999999;-88.4559558

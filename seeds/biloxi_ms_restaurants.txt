@@ -1,0 +1,287 @@
+Seoul Restaurant;207 Iberville Dr # B, Biloxi, MS;30.3986478;-88.9348296
+Sakura Restaurant & Sushi Bar;2667 Pass Rd, Biloxi, MS;30.3996472;-88.99324089999999
+Yuki's Japanese Restaurant;2389 Pass Rd, Biloxi, MS;30.40142149999999;-88.9753874
+Mcelroys Harbor House Seafood Restaurant;695 Beach Blvd, Biloxi, MS;30.3914742;-88.8852239
+Express Llc;2800 Beach Blvd, Biloxi, MS;30.3923419;-88.99038159999999
+Port-O-Call Seafood Restaurant;15200 Lemoyne Blvd, Biloxi, MS;30.4430665;-88.86359279999999
+Kim Long Restaurant;832 Division St, Biloxi, MS;30.40367609999999;-88.8901873
+Shoney's Restaurant;1749 Beach Blvd, Biloxi, MS;30.392729;-88.94191599999999
+Cazadores Restaurant;1635 Pass Rd, Biloxi, MS;30.4024681;-88.9351496
+Farraddays' Restaurant;151 Beach Blvd, Biloxi, MS;30.3911677;-88.8606252
+Hunan Chinese Restaurant;1762 Beach Blvd, Biloxi, MS;30.395442;-88.942652
+Jamaica Restaurant;1637 Pass Rd, Biloxi, MS;30.402478;-88.93517159999999
+Caribbean Seafood Restaurant;1621 Pass Rd, Biloxi, MS;30.4020797;-88.9342394
+Costa Cucina Italian Restaurant;850 Bayview Ave, Biloxi, MS;30.4127577;-88.89090759999999
+Pelican Warf Cajun Restaurant;1775 Beach Blvd, Biloxi, MS;30.3928309;-88.94399589999999
+Gt's Restaurant & Bar;940 Beach Blvd, Biloxi, MS;30.3946468;-88.89488449999999
+Korean Restaurant Rc;1670 Pass Rd E, Biloxi, MS;30.4031512;-88.9369813
+Hotel & Restaurant Supply;15096 Creosote Rd, Gulfport, MS;30.4279675;-89.08992260000001
+Newman Restaurant Supply;10441 Lemoyne Blvd, Diberville, MS;30.4377061;-88.8868207
+King Buffet Chinese Restaurant;227 Eisenhower Dr, Biloxi, MS;30.3965147;-88.9934456
+Fountain Restaurant & Lounge;111 Rue Magnolia, Biloxi, MS;30.3944323;-88.8890845
+IHOP;2680 Beach Blvd, Biloxi, MS;30.388808;-88.99585139999999
+Jazzeppi's;195 Porter Ave Ste B, Biloxi, MS;30.3984897;-88.9021339
+Pizza Hut;10443 Diberville Blvd, Biloxi, MS;30.438437;-88.8958339
+Taco Bell;2335 Pass Rd, Biloxi, MS;30.4020377;-88.9719831
+Chick-Fil-A;2600 Beach Blvd 15A, Biloxi, MS;30.3922533;-88.9898269
+Waffle House;998 Cedar Lake Rd, Biloxi, MS;30.4478436;-88.9336008
+Nemo's Restaurant;1980 Beach Blvd, Biloxi, MS;30.39347369999999;-88.9552103
+Chimney's Restaurant;1640 E Beach Blvd, Gulfport, MS;30.3699963;-89.08170439999999
+Hard Rock Hotel & Casino Biloxi;777 Beach Boulevard, Biloxi, MS;30.39223939999999;-88.8877334
+Bayview Gourmet Restaurant;1010 Robinson Ave, Ocean Springs, MS;30.4148062;-88.8269468
+La Casita Mexican Restaurant;1409 Bienville Blvd, Ocean Springs, MS;30.4165176;-88.8202541
+IHOP Restaurant;3730 W Beach Blvd, Gulfport, MS;30.361034;-89.106928
+Phi Long Restaurant;10598 Diberville Blvd, Diberville, MS;30.44156379999999;-88.8981936
+Cresco Inc;651 35th St, Gulfport, MS;30.392178;-89.062697
+Isle Casino Hotel Biloxi;151 Beach Blvd, Biloxi, MS;30.3911677;-88.8606252
+Back Bay Restaurant;1458 Magnolia St, Gulfport, MS;30.4035735;-89.024604
+Little Caesars Pizza;2025 Pass Rd, Biloxi, MS;30.4022842;-88.9568268
+Checkers Drive-In Restaurant;1123 E Pass Rd, Gulfport, MS;30.3976803;-89.03003439999999
+Popeyes Chicken And Biscuits;291 Caillavet St, Biloxi, MS;30.4029888;-88.8925106
+Hills Country Buffet;2041 Popps Ferry Rd, Biloxi, MS;30.437331;-88.959164
+Reynolds Kitchen Exhaust Clnng;13530 Windsong Dr, Gulfport, MS;30.46612829999999;-89.06886809999999
+Checkers Drive-In Restaurant;2431 25th Ave, Gulfport, MS;30.3795007;-89.0931064
+Pops Pizzeria;921 Cedar Lake Rd, Biloxi, MS;30.443249;-88.935574
+Bamboo Chinese Restaurant;10282 Lamey Bridge Rd, Diberville, MS;30.4357457;-88.890925
+Arby's;2600 Beach Blvd # 15d, Biloxi, MS;30.3922533;-88.9898269
+Checkers Drive-In Restaurant;3154 Bienville Blvd, Ocean Springs, MS;30.41203389999999;-88.7820239
+Papa John's Pizza;1614 Pass Rd, Biloxi, MS;30.4027473;-88.9340969
+Slap Ya Momma's;1830 Beach Blvd, Biloxi, MS;30.3940162;-88.9473733
+Auntie Anne's Pretzels;2600 Beach Blvd Ste 88, Biloxi, MS;30.3922533;-88.9898269
+Salute Italian Restaurant;1712 15th St, Gulfport, MS;30.3696639;-89.0823716
+Rpm Pizza Llc;15384 5th St, Gulfport, MS;30.4526073;-89.0987538
+China Garden Express;1654 Pass Rd H, Biloxi, MS;30.4033356;-88.93633960000001
+Popeye's Chicken & Biscuits;405 Meadows St, Biloxi, MS;30.4095621;-88.9254361
+Long John Silver's;947 Cedar Lake Rd, Biloxi, MS;30.445186;-88.9345249
+Jimmy John's;2348 Pass Rd, Biloxi, MS;30.402687;-88.9727382
+Mc Donald's;110 Eisenhower Dr, Biloxi, MS;30.3896154;-88.992055
+Taco Bell;506 Larcher Blvd 2306, Biloxi, MS;30.4067003;-88.9090061
+Soul Catfish Wings & Things;1680 Pass Rd, Biloxi, MS;30.4031185;-88.937575
+Taco Bell;913 Cedar Lake Rd, Biloxi, MS;30.443243;-88.9339353
+Waffle House;2428 Beach Blvd, Biloxi, MS;30.3908175;-88.9785459
+Grains Of Montana;1777 Popps Ferry Rd, Biloxi, MS;30.4423213;-88.94025189999999
+Waffle House;8007 Tucker Rd, Biloxi, MS;30.458174;-88.8440581
+Mosaic Restaurant & Bar;1310 27th Ave, Gulfport, MS;30.3676564;-89.0945399
+Arby's;506 Larcher Blvd 2306, Biloxi, MS;30.4067003;-88.9090061
+Cora's;1230 Beach Blvd, Biloxi, MS;30.3954947;-88.91059899999999
+IHOP;11475 Cinema Way Dr, Biloxi, MS;30.4556722;-88.88663849999999
+Applebee's;951 Cedar Lake Rd, Biloxi, MS;30.4455968;-88.9344808
+Subway;921 Cedar Lake Rd # B, Biloxi, MS;30.443249;-88.935574
+Subway;11332 Cedar Lake Rd, Biloxi, MS;30.4521115;-88.9332891
+Firehouse Subs Pass & Beauvoir;296 Beauvoir Rd 200, Biloxi, MS;30.4018824;-88.9724166
+Applebee's;951 Cedar Lake Rd, Biloxi, MS;30.4455968;-88.9344808
+Wendy's;2640 Beach Blvd, Biloxi, MS;30.3894266;-88.99271499999999
+Ruth's Chris Steak House;777 Beach Blvd, Biloxi, MS;30.39223939999999;-88.8877334
+Treasure Bay Casino;1980 Beach Blvd, Biloxi, MS;30.39347369999999;-88.9552103
+CiCi's Pizza Buffet;2650 Beach Blvd, Biloxi, MS;30.3916282;-88.99357739999999
+Popeye's Chicken & Biscuits;2431 Pass Rd, Biloxi, MS;30.4011975;-88.9785199
+Rena's Deli;131 Lameuse St, Biloxi, MS;30.3948374;-88.887346
+Steak 'n Shake;280 Beach Blvd, Biloxi, MS;30.3927303;-88.8663246
+McElroy's Harbor House;695 Beach Blvd, Biloxi, MS;30.3914742;-88.8852239
+Rosetti's Cafe;895 Division St, Biloxi, MS;30.402711;-88.891837
+Tailgater's Sports Pub & Grill;1777 Popps Ferry Rd, Biloxi, MS;30.4423213;-88.94025189999999
+Tegarden Restaurant;187 Tegarden Rd, Gulfport, MS;30.3833285;-89.0359921
+Cajun's Fabulous Fried Chicken;112 Pass Rd, Gulfport, MS;30.3918431;-89.05353319999999
+SUBWAY;1888 Beach Blvd, Biloxi, MS;30.3939573;-88.9507205
+Jocelyns Restaurant;PO Box 683, Ocean Springs, MS;30.4113097;-88.8278057
+Holder Restaurant;617 27TH St, Gulfport, MS;30.3841585;-89.06254009999999
+Le Cafe Beignet;136 Rue Magnolia, Biloxi, MS;30.3955749;-88.8887767
+SUBWAY;301 Fisher St, Keesler AFB, MS;30.412311;-88.910928
+Shaggy's Beach Bar & Grill;1763 Beach Blvd, Biloxi, MS;30.39282279999999;-88.9429835
+SUBWAY;2681 C T Switzer Sr Dr, Biloxi, MS;30.3922736;-88.99496859999999
+Brooks Restaurants;9440 Highway 49, Gulfport, MS;30.4252223;-89.0918655
+Mississippi Beverage Systems;10441 Lemoyne Blvd, Diberville, MS;30.4377061;-88.8868207
+Associated Food Equipment;10381 Express Dr, Gulfport, MS;30.438106;-89.03875699999999
+Ward's Restaurant;617 Pass Rd, Gulfport, MS;30.3881779;-89.06256839999999
+Kfc;947 Cedar Lake Rd, Biloxi, MS;30.445186;-88.9345249
+Subway;152 G E Ohr St, Biloxi, MS;30.3962303;-88.887982
+Burger King;1641 Pass Rd, Biloxi, MS;30.4023181;-88.9353893
+Wing Street;2176 Pass Rd, Biloxi, MS;30.4030907;-88.96557039999999
+Subway;2600 Beach Blvd Ste 15G, Biloxi, MS;30.3922533;-88.9898269
+Subway;1670 Pass Rd Ste J, Biloxi, MS;30.4031512;-88.9369813
+El Saltillo Mexican Restaurant;3100 Bienville Blvd # 78, Ocean Springs, MS;30.4112095;-88.78219829999999
+Steve's Marina Restaurant;213 E Beach Blvd, Long Beach, MS;30.344974;-89.144598
+Subway;2368 Pass Rd, Biloxi, MS;30.403339;-88.9737693
+Burger King;2395 Pass Rd, Biloxi, MS;30.4014258;-88.9757187
+Hectco Services;2815 22nd Ave, Gulfport, MS;30.384983;-89.08917799999999
+Pizza Hut;1698 Pass Rd F, Biloxi, MS;30.4031277;-88.9383229
+Waffle House;111 Reynoir St Ste 430, Biloxi, MS;30.3944308;-88.8907521
+McDonald's;692 Beach Blvd, Biloxi, MS;30.3933274;-88.8853134
+Waffle House;1938 Beach Blvd, Biloxi, MS;30.3933885;-88.9532607
+Sonic Drive-In;927 Cedar Lake Road, Biloxi, MS;30.4443613;-88.93449009999999
+Waffle House;1759 Beach Blvd, Biloxi, MS;30.3932632;-88.9424423
+Copone's Restaurant;2113 Government St, Ocean Springs, MS;30.4143133;-88.81394329999999
+El Nublino Restaurant;1909 E Pass Rd, Gulfport, MS;30.4000622;-89.0157985
+Fisherman's Wharf Restaurant;705 Bienville Blvd, Ocean Springs, MS;30.4166346;-88.8335128
+Chef Scott's Restaurant;1314 Goverment Street, Ocean Springs, MS;30.4133205;-88.8235685
+Discount Restaurant Supply;15301 Lemoyne Blvd, Biloxi, MS;30.4427557;-88.8648774
+El Aguila Restaurant;187 Tegarden Rd, Gulfport, MS;30.3833285;-89.0359921
+Chef Scott's Restaurant;1314 Goverment Street, Ocean Springs, MS;30.4133205;-88.8235685
+Wing Street;1698 Pass Rd, Biloxi, MS;30.4031277;-88.9383229
+Dona Blanca Restaurant;14451 Dedeaux Rd, Gulfport, MS;30.4491002;-89.0841822
+Quality Restaurant Concepts;9319 Highway 49, Gulfport, MS;30.4215649;-89.0931684
+Darden Restaurants Inc;15270 Crossroads Pkwy, Gulfport, MS;30.43757699999999;-89.0926769
+Pizza Hut;2176 Pass Rd, Biloxi, MS;30.4030907;-88.96557039999999
+Saki Restaurant;5995 Washington Ave, Ocean Springs, MS;30.4296178;-88.8298502
+Aunt Jenny's Catfish Rstrnt;1217 Washington Ave, Ocean Springs, MS;30.4183866;-88.8282432
+Mc Donald's Corporate Office;6520 Sunplex Dr, Ocean Springs, MS;30.4265284;-88.7182373
+South China Restaurant;548 Courthouse Rd, Gulfport, MS;30.3906005;-89.04384830000001
+Domino's;1671 Pass Rd, Biloxi, MS;30.4025183;-88.93716300000001
+Guddtymes Daiquiri Restaurant & Bar;2805 13th St, Gulfport, MS;30.3667913;-89.0958021
+Great American Cookie;2600 Beach Blvd Ste 14, Biloxi, MS;30.3922533;-88.9898269
+Joaquin Morales El Aguila Restaurant;187 Tegarden Rd, Gulfport, MS;30.3833285;-89.0359921
+Air-Merica Repairs & Svc Llc;8050 Shady Rest Rd, Ocean Springs, MS;30.4816435;-88.7481791
+Samurai Japanese Restaurant;2511 25th Ave, Gulfport, MS;30.38119189999999;-89.0935441
+Cambios Restaurant;15701 Lemoyne Blvd, Biloxi, MS;30.4422398;-88.8713678
+Hooters;1906 Beach Blvd, Biloxi, MS;30.3938831;-88.95199029999999
+Hook Up;200 8th St, Biloxi, MS;30.4060718;-88.8620778
+Mr. Greek;1670 Pass Rd H, Biloxi, MS;30.4031512;-88.9369813
+Fernando's Mexican Restaurants;16205 Lemoyne Blvd, Biloxi, MS;30.4373832;-88.8805739
+Sakura Restaurant & Sushi Bar;1081a Government St, Ocean Springs, MS;30.4135994;-88.8263095
+Lagniappe Restaurant & Catering;703 Cox Avenue, Ocean Springs, MS;30.4141575;-88.83021
+Kentucky Fried Chicken;941 Cedar Lake Rd, Biloxi, MS;30.4451906;-88.9344382
+Yes Noodle Restaurant;10090 Central Ave # A, Diberville, MS;30.4305211;-88.8908556
+White Cap Seafood Restaurant;560 E Beach Blvd, Gulfport, MS;30.3750746;-89.0602259
+Cap's Restaurant;18369 Highway 49, Saucier, MS;30.5535451;-89.1215818
+Mary Mahoney's Old French Hse;116 Rue Magnolia, Biloxi, MS;30.394507;-88.8887759
+Mc Donald's;970 Cedar Lake Rd, Biloxi, MS;30.4462601;-88.93372719999999
+Bulls Restaurant;300 Jeff Davis Ave, Long Beach, MS;30.3483526;-89.1503619
+El Agave Mexican Restaurant;2108 25th Ave, Gulfport, MS;30.3759939;-89.09262319999999
+O'Neal's Seafood Restaurant;2330 E Pass Rd, Gulfport, MS;30.4010384;-89.0026568
+Steve's Marina Restaurant;15151 Airport Rd, Gulfport, MS;30.4193809;-89.09098310000002
+Sweet Bay Restaurant;7629 Semmes Rd, Vancleave, MS;30.4721692;-88.74070259999999
+Burger Burger;1039 Howard Ave, Biloxi, MS;30.3980276;-88.9002618
+Kim Long Restaurant;1408 Bienville Blvd, Ocean Springs, MS;30.4157008;-88.8199583
+Shanghai Restaurant;2525 Highway 90, Gautier, MS;30.3900646;-88.65031619999999
+Ward's Restaurant;198 E Railroad St, Long Beach, MS;30.3514882;-89.14940519999999
+IHOP;3730 W Beach Blvd, Gulfport, MS;30.361034;-89.106928
+Sweetbay Restaurant;8901 Highway 57, Vancleave, MS;30.466163;-88.7192943
+El Saltillo Mexican Restaurant;115 N Cleveland Ave, Long Beach, MS;30.3527574;-89.1467017
+Barnaby's Seafood Restaurant;306 E Beach Blvd, Long Beach, MS;30.34774569999999;-89.1428411
+Tammy's Family Restaurants;Beatline Road & 28th, Long Beach, MS;30.3836522;-89.1871025
+El Nopal Mexican Restaurant;5130 Beatline Rd, Long Beach, MS;30.3635725;-89.18666429999999
+IHOP;15130 Turkey Creek Dr, Gulfport, MS;30.421867;-89.0908556
+Martha's Restaurants;5004 Espy Ave, Pass Christian, MS;30.3544873;-89.20349689999999
+Lil' Ray's Restaurant;124 Jeff Davis Ave, Long Beach, MS;30.3494815;-89.15104439999999
+Maywah Chinese Restaurant;610 W Railroad St, Long Beach, MS;30.3473552;-89.1631439
+Waffle House;11967 Bobby Eleutrius Blvd, Diberville, MS;30.4566333;-88.8991406
+Waffle House;612 Beach Dr, Gulfport, MS;30.3812954;-89.0310184
+Jia;875 Beach Blvd, Biloxi, MS;30.3929972;-88.8918484
+Steve's Marina Restaurant;8283 Jennifer Ln, Long Beach, MS;30.4061201;-89.18189029999999
+Margaritaville Casino;160 5th St, Biloxi, MS;30.4016128;-88.8597446
+Ms Piggy;12755 Lorraine Rd, Biloxi, MS;30.4684708;-88.99657979999999
+Buffet;875 Beach Blvd, Biloxi, MS;30.3929972;-88.8918484
+Your Mamaz House;12056 Cedar Lake Rd, Biloxi, MS;30.4592349;-88.9386361
+Mugshots Grill & Bar;2650 Beach Blvd, Biloxi, MS;30.3916282;-88.99357739999999
+Inez's Cafe;294 Main St, Biloxi, MS;30.4028561;-88.8855559
+Hook Line & Sinker Seafood;2010 Beach Blvd, Biloxi, MS;30.39391;-88.95705099999999
+Atami Hibachi Express;1647 Pass Rd, Biloxi, MS;30.4023735;-88.9357795
+Sal & Mookies;110 Lameuse St, Biloxi, MS;30.3937995;-88.8867463
+Love Shack;8244 Woolmarket Rd, Biloxi, MS;30.47011059999999;-88.97510489999999
+Cj's Local Cuisine;15200 Lemoyne Blvd, Biloxi, MS;30.4430665;-88.86359279999999
+Sicilys;15804 Lemoyne Blvd, Biloxi, MS;30.4427061;-88.873378
+Taquiria Casaroles;1635 Pass Rd, Biloxi, MS;30.4024681;-88.9351496
+Highlights;850 Bayview Ave, Biloxi, MS;30.4127577;-88.89090759999999
+Half Shell Oyster House HR;777 Beach Blvd, Biloxi, MS;30.39223939999999;-88.8877334
+Lillie's Asian Cuisine;151 Beach Blvd, Biloxi, MS;30.3911677;-88.8606252
+Bacchus In Biloxi;100 Caillavet St, Biloxi, MS;30.3941936;-88.8921009
+Tropicana Oxford House;942 Wildwood Ln, Biloxi, MS;30.4386253;-88.9691936
+Tradewinds Grill;151 Beach Blvd, Biloxi, MS;30.3911677;-88.8606252
+Mc Elroy's Harbour House Sfd;695 Beach Blvd, Biloxi, MS;30.3914742;-88.8852239
+Japanese Steakhouse Sumo;2650 Beach Blvd 1, Biloxi, MS;30.3916282;-88.99357739999999
+Biloxi Shuckers;145 Caillavet St, Biloxi, MS;30.39587359999999;-88.8923078
+Lava Bar;151 Beach Blvd, Biloxi, MS;30.3911677;-88.8606252
+Hookah Up Cafe;271 Beauvoir Rd, Biloxi, MS;30.400597;-88.97321199999999
+Mary Mahoney's Old French Hse;110 Rue Magnolia, Biloxi, MS;30.3943829;-88.8886903
+Sicilain The II;1670 Pass Rd, Biloxi, MS;30.4031512;-88.9369813
+Lunch;837 Howard Ave, Biloxi, MS;30.3966537;-88.8902433
+Xuan Nlti Cafe;526 Division St, Biloxi, MS;30.4034064;-88.8780749
+Lafittes Feast Buffet;1980 Beach Blvd, Biloxi, MS;30.39347369999999;-88.9552103
+White Pillars;1696 Beach Blvd, Biloxi, MS;30.39368679999999;-88.9382954
+Belgican Fries II;2600 Beach Blvd, Biloxi, MS;30.3922533;-88.9898269
+Sumo Japanese Steakhouse-Sushi;2650 Beach Blvd, Biloxi, MS;30.3916282;-88.99357739999999
+Mediterraneo-Ocean Springs;1314 Government St, Ocean Springs, MS;30.4133205;-88.8235685
+Fishermen's Harbor Seafood Res;749 Beach Blvd, Biloxi, MS;30.39284139999999;-88.887013
+Chinese Express 3;430 Sanlenay CT, Biloxi, MS;30.4126544;-88.97742199999999
+Kennedy Seafood;2600 Beach Blvd, Biloxi, MS;30.3922533;-88.9898269
+Bingo's Barbeque Shak;11438 Diberville Blvd, Biloxi, MS;30.4482337;-88.90158989999999
+Mary Mahoney's Old French Hse;110 Rue Magnolia, Biloxi, MS;30.3943829;-88.8886903
+Sicilain The II;1670 Pass Rd, Biloxi, MS;30.4031512;-88.9369813
+Lunch;837 Howard Ave, Biloxi, MS;30.3966537;-88.8902433
+Xuan Nlti Cafe;526 Division St, Biloxi, MS;30.4034064;-88.8780749
+Lafittes Feast Buffet;1980 Beach Blvd, Biloxi, MS;30.39347369999999;-88.9552103
+White Pillars;1696 Beach Blvd, Biloxi, MS;30.39368679999999;-88.9382954
+Belgican Fries II;2600 Beach Blvd, Biloxi, MS;30.3922533;-88.9898269
+Sumo Japanese Steakhouse-Sushi;2650 Beach Blvd, Biloxi, MS;30.3916282;-88.99357739999999
+Mediterraneo-Ocean Springs;1314 Government St, Ocean Springs, MS;30.4133205;-88.8235685
+Orleans Chicken;15800 Lemoyne Blvd, Biloxi, MS;30.44252;-88.87339399999999
+Fillin Station;692 Howard Ave, Biloxi, MS;30.3962741;-88.88528889999999
+Tasty Tails Seafood House;820 Dr Martin Luther King Jr Blvd, Biloxi, MS;30.3982189;-88.89002479999999
+Bernie's;2600 Beach Blvd, Biloxi, MS;30.3922533;-88.9898269
+Missi Louisibama;1621 Pass Rd, Biloxi, MS;30.4020797;-88.9342394
+Stacked Grill;154 Howard Ave, Biloxi, MS;30.3963417;-88.8603217
+Wentzel's Seafood;1906 Beach Blvd, Biloxi, MS;30.3938831;-88.95199029999999
+Waffle House;4324 W Beach Blvd Ste 201, Gulfport, MS;30.3581664;-89.11344629999999
+Waffle House;9282 Canal Rd, Gulfport, MS;30.42039789999999;-89.1360877
+Cracker Barrel Old Country Store;15255 Crossroads Pkwy, Gulfport, MS;30.4368508;-89.0937222
+Lucios Mexican Restaurant;116 Davis Ave, Pass Christian, MS;30.316578;-89.241866
+Cracker Barrel Old Country Store;15255 Crossroads Pkwy, Gulfport, MS;30.4368508;-89.0937222
+Burt Waste;11501 Ware Lake Rd, Vancleave, MS;30.50936489999999;-88.6381887
+Marble Slab Creamery;15236 Crossroads Pkwy, Gulfport, MS;30.43971939999999;-89.0947247
+Pizza Hut;19160 Commission Rd, Long Beach, MS;30.3693582;-89.1660234
+Island View Casino;3300 W Beach Blvd, Gulfport, MS;30.3635268;-89.10273889999999
+Anthonys Sports Bar;12293 Highway 49, Gulfport, MS;30.4646757;-89.1026253
+Adventures Pub & Spirits;132 Lameuse St, Biloxi, MS;30.3948638;-88.886883
+Papa John's Pizza;1720 E Pass Rd # C, Gulfport, MS;30.40075199999999;-89.01925
+Wing Zone;1621 Pass Rd Ste G, Biloxi, MS;30.4020797;-88.9342394
+Wingstop;1307 E Pass Rd, Gulfport, MS;30.3967276;-89.0298277
+China Star;353 Courthouse Rd, Gulfport, MS;30.3841382;-89.0445357
+Sonic Drive-In;3521 Sangani Blvd, Diberville, MS;30.4579069;-88.89262889999999
+Taco Bell;831 Cowan Rd, Gulfport, MS;30.3982118;-89.0272215
+Wendy's Old Fashioned Hmbrgrs;22 Pass Rd, Gulfport, MS;30.3938015;-89.0463046
+Papa John's Pizza;10090 Central Ave, Diberville, MS;30.4305211;-88.8908556
+Hartz Chicken Buffet;800 Bienville Blvd, Ocean Springs, MS;30.4156894;-88.82963319999999
+Zaxby's;9384 Highway 49, Gulfport, MS;30.4233858;-89.091807
+Dickey's Barbecue Pit;211 Larcher Blvd 4818, Keesler AFB, MS;30.3986694;-88.91108559999999
+Traditions BBQ;13140 Three Rivers Rd, Biloxi, MS;30.475379;-89.06826199999999
+Memphis Q;875 Beach Blvd, Biloxi, MS;30.3929972;-88.8918484
+Papa John's Pizza;11505 Cinema Dr Ste 15, D'Iberville, MS;30.456407;-88.886675
+C J's Seafood House;10122 Central Ave, Diberville, MS;30.4314844;-88.8907981
+Little Caesars Pizza;12373 Highway 49, Gulfport, MS;30.4664217;-89.10285470000001
+Morelias Mexican Bar & Grill;9442 Highway 49, Gulfport, MS;30.4251986;-89.0911709
+Outback D'iberville;3586 Sangani Blvd., D'iberville, MS;30.4593326;-88.89422259999999
+Aztecas Mexican Restaurant;2405 Highway 90, Gautier, MS;30.3907824;-88.6488888
+Auntie Anne's Pretzels;3615 Sangani Blvd, Diberville, MS;30.4565186;-88.89530309999999
+Main Street Dinner;709 Howard Ave, Biloxi, MS;30.3959738;-88.88574609999999
+Landrys Seafood House;2694 Beach Blvd, Biloxi, MS;30.3892;-88.996788
+Tokyo Express;2600 Beach Blvd Ste 1506, Biloxi, MS;30.3922533;-88.9898269
+Panda House;1315 E Pass Rd, Gulfport, MS;30.3983352;-89.0281493
+Pizza Hut;10223 Central Ave, Diberville, MS;30.4334989;-88.8911737
+Foxy's Pizza;3179 Mallett Rd 22, Diberville, MS;30.4572447;-88.888562
+Domino's Pizza;4302 W Beach Blvd, Gulfport, MS;30.359015;-89.112825
+Waffle House;2233 E Pass Rd, Gulfport, MS;30.4006315;-89.0052314
+Papa John's Pizza;520 E Pass Rd, Gulfport, MS;30.39555099999999;-89.04092419999999
+Rally's Hamburgers;1123 E Pass Rd, Gulfport, MS;30.3976803;-89.03003439999999
+Sonic Drive-In;11150 Lorraine Rd, Gulfport, MS;30.4463766;-89.03017400000002
+Wendy's;7521 Washington Ave, Ocean Springs, MS;30.4506888;-88.8425262
+Arby's;14035 Airport Rd, Gulfport, MS;30.4077858;-89.0712215
+Sicily The Pizza Place;510 Red Oak Dr, Gulfport, MS;30.3977533;-89.00844939999999
+Taco Bell;1375 E Pass Rd, Gulfport, MS;30.39853939999999;-89.0272772
+Little Caesars Pizza;28 Pass Rd, Gulfport, MS;30.3931397;-89.04883579999999
+Little Ceasar's Pizza;4494 Popps Ferry Rd, Diberville, MS;30.444357;-88.91588800000001
+Domino's Pizza;4302 W Beach Blvd, Gulfport, MS;30.359015;-89.112825
+Taco Bell;9384 Highway 49, Gulfport, MS;30.4233858;-89.091807
+Red Lobster;3897 Promenade Parkway, D'iberville, MS;30.4561725;-88.9018601
+Waffle House;3810 25th Ave, Gulfport, MS;30.3958644;-89.0930143
+Hardee's;11041 Highway 49, Gulfport, MS;30.4433773;-89.0990413
+Papa John's Pizza;2996B Bienville Blvd, Ocean Springs, MS;30.4129269;-88.7876161
+Burger King;10588 Highway 49, Gulfport, MS;30.4421122;-89.0981639
+Wings 2 Go;8220 Arkansas Ave, Gulfport, MS;30.4042401;-89.0939375
+Church's Chicken;11487 Highway 49, Gulfport, MS;30.4552514;-89.10132689999999
+Buffalo Wild Wings Grill & Bar;3850 Promenade Pkwy, Diberville, MS;30.4565485;-88.90248659999999
+Hungry Howie's Pizza & Subs;2309 Pass Rd, Gulfport, MS;30.3799319;-89.09070349999999
+Church's Chicken;2321 25th Ave, Gulfport, MS;30.3799946;-89.091329
+O'Charley's;10510 Highway 49, Gulfport, MS;30.4410133;-89.0972283
+PHI Long Noodle House;10598 Diberville Blvd # D, Diberville, MS;30.44156379999999;-88.8981936
+Zaxby's Chicken Fingers & Buffalo Wings;11383 Highway 49, Gulfport, MS;30.4525349;-89.09995239999999
+Fatsumo Sushi LLC;12261 US 49 1, Gulfport, MS;30.463254;-89.1022012

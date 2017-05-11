@@ -1,0 +1,275 @@
+Mattiace Restaurants;125 S Congress St, Jackson, MS;32.2988385;-90.1834008
+J & R Restaurant Group;4500 I 55 N Ste 292, Jackson, MS;32.3546198;-90.1502735
+Restaurant & Bar Eqpt;705 S State St, Jackson, MS;32.2915931;-90.1820607
+Hotel & Restaurant Supply;4251 Industrial Dr, Jackson, MS;32.3396045;-90.2365012
+Capital Restaurant Supply Co;4660 Highway 80 W, Jackson, MS;32.3095662;-90.2648318
+Lamar Restaurant;209 S Lamar St, Jackson, MS;32.2986885;-90.1864461
+Keifer's Restaurant;120 N Congress St, Jackson, MS;32.3004888;-90.1824467
+Keifer's Restaurant;710 Poplar Blvd, Jackson, MS;32.3153394;-90.1776901
+Tai Hong Restaurants;1601 Terry Rd, Jackson, MS;32.28617860000001;-90.2059776
+Olive Garden Italian Restaurant;6347 I 55 N, Jackson, MS;32.3966476;-90.14677259999999
+Eat Here Brands;4500 I 55 N # 221, Jackson, MS;32.3546198;-90.1502735
+Newk's Franchise Co;2660 Ridgewood Rd # 100, Jackson, MS;32.3321537;-90.14153080000001
+Mangia Bene Inc;3317 N State St, Jackson, MS;32.338129;-90.176125
+Amerigo Restaurant;6592 Old Canton Rd, Ridgeland, MS;32.4020686;-90.10751359999999
+Equinox Systems & Svc;PO Box 31213, Jackson, MS;32.2987573;-90.1848103
+Bravo Italian Restaurant & Bar;4500 I 55 N Ste 244, Jackson, MS;32.3546198;-90.1502735
+Saltines Restaurant;622 Duling Ave, Jackson, MS;32.3361986;-90.1752032
+Char Restaurant;4500 I 55 N Ste 142, Jackson, MS;32.3546198;-90.1502735
+Julep Restaurant;4785 Old Canton Rd, Jackson, MS;32.3613756;-90.14649179999999
+Camp Service & Parts Inc;328 Oakdale St, Jackson, MS;32.2876473;-90.1921773
+Julep Restaurant & Bar;1305 E Northside Dr Ste 105, Jackson, MS;32.3557651;-90.14827369999999
+Bancroft Paper Co;3880 Bullard St, Jackson, MS;32.3287117;-90.2311873
+Julep Restaurant & Bar;4500 I 55 N Suite 105, Jackson, MS;32.3546198;-90.1502735
+Walker's Drive-In;3016 N State St, Jackson, MS;32.3353303;-90.176333
+Bully's Restaurant;3118 Livingston Rd, Jackson, MS;32.3418257;-90.1979052
+Mississippi Restaurant Assn;130 Riverview Dr Ste A, Flowood, MS;32.3290626;-90.128607
+Elite Restaurant;141 E Capitol St, Jackson, MS;32.2998132;-90.18719800000001
+Abeba Ethiopean Restaurant;3716 I 55 N, Jackson, MS;32.337913;-90.160416
+Hot Spot Restaurant;4580 N Siwell Rd, Jackson, MS;32.2468303;-90.30289250000001
+Ms Used Restaurant Supply;4607 Womack Dr, Jackson, MS;32.354705;-90.25291700000001
+Fat Alberts Restaurant;615 Beasley Rd, Jackson, MS;32.3851737;-90.1669778
+Penguin Restaurant & Bar;1100 J R Lynch St # A, Jackson, MS;32.2976571;-90.20509469999999
+J & R Restaurants;6030 I 55 N, Jackson, MS;32.387185;-90.144774
+Magundi's Restaurant Catering;613 S West St, Jackson, MS;32.2941778;-90.1855009
+B & B Restaurant;2000 Valley St, Jackson, MS;32.2895868;-90.2154803
+L D's Restaurant;301 Ellis Ave, Jackson, MS;32.3164273;-90.2278623
+Rankin Street Restaurant;960 S West St, Jackson, MS;32.2880208;-90.1860573
+Wraps Restaurant;1220 E Northside Dr, Jackson, MS;32.3567504;-90.150328
+Margaritas Mexican Restaurant;1625 E County Line Rd 120, Jackson, MS;32.3988536;-90.12250259999999
+Edo Japanese Restaurant;5834 Ridgewood Rd Ste B, Jackson, MS;32.3858954;-90.1415415
+Best Wok Chinese Restaurant;225 Meadowbrook Rd Ste 600, Jackson, MS;32.3490056;-90.17655719999999
+Iron Skillet Restaurant;970 I 20 Frontage Rd, Jackson, MS;32.2799108;-90.19756679999999
+Mississippi Restaurant Svc Inc;705 Audubon Point Dr, Brandon, MS;32.3827061;-90.0088159
+Tay's Soul Food Restaurant;930 Palmyra St, Jackson, MS;32.3107586;-90.1959151
+Kim's Seafood Restaurant;5852 Ridgewood Rd, Jackson, MS;32.387896;-90.1414015
+Chopsteak Chinese Restaurant;803 Ellis Ave, Jackson, MS;32.3078854;-90.22773049999999
+Giovanni's Italian Restaurant;1189 E County Line Rd Ste 1020, Jackson, MS;32.3982053;-90.13289379999999
+Mai Tai Chinese Restaurant;1101 Highway 49 S, Jackson, MS;32.2060298;-90.1611382
+Kim's Seafood Restaurant;1675 Terry Rd, Jackson, MS;32.136097;-90.29981590000001
+Santiago's Restaurant & Lounge;101 E South St, Jackson, MS;32.2946793;-90.1884051
+Crystals Restaurant & Lounge;2815 J R Lynch St, Jackson, MS;32.2973921;-90.226771
+Sylvia Restaurant & Lounge;3060 Medgar Evers Blvd, Jackson, MS;32.3335885;-90.2052693
+Big John's Restaurant;3399 Medgar Evers Blvd, Jackson, MS;32.3378285;-90.21157459999999
+Rankin Street Restaurant;210 Parcel Dr, Jackson, MS;32.2671243;-90.20537999999999
+Fortune Restaurant & Asian Market;1169 E County Line Rd, Jackson, MS;32.399063;-90.135723
+Martin's Restaurant & Lounge;214 S State St, Jackson, MS;32.2975614;-90.18028009999999
+Three Sons Restaurant;4470 Sunset Dr, Jackson, MS;32.3556609;-90.22179109999999
+Mitch's Restaurant & Lounge;1955 Highway 80 W, Jackson, MS;32.287168;-90.218729
+Paco's Mexican Restaurant;6340 Ridgewood Court Dr, Jackson, MS;32.3958953;-90.1392912
+West Restaurant & Lounge;3430 W Capitol St, Jackson, MS;32.323689;-90.2283209
+Freelon's Restaurant Bar;440 N Mill St, Jackson, MS;32.3054497;-90.1904703
+Rooster's;2906 N State St # 104, Jackson, MS;32.3346626;-90.1762959
+Rally's Hamburgers;318 W Woodrow Wilson Ave, Jackson, MS;32.3272042;-90.19469529999999
+Captain D's Seafood;2631 Highway 80 W, Jackson, MS;32.293362;-90.23305959999999
+Five Happiness Chinese Rstrnt;2931 Mcdowell Road Ext, Jackson, MS;32.2692987;-90.26276639999999
+Pizza Hut;1625 E County Line Rd 100, Jackson, MS;32.3988536;-90.12250259999999
+Captain D's Seafood;2950 Highway 80 E, Jackson, MS;32.2940468;-90.2332651
+Captain D's Seafood;235 W Woodrow Wilson Ave, Jackson, MS;32.3264577;-90.1931977
+Chuck E Cheese's;5465 I 55 N, Jackson, MS;32.3775241;-90.14989369999999
+Chick-Fil-A;1065 E County Line Rd, Jackson, MS;32.3989763;-90.1369572
+Church's Chicken;3280 Medgar Evers Blvd, Jackson, MS;32.3362982;-90.2086564
+KFC;3198 W Northside Dr, Jackson, MS;32.3564354;-90.23015190000001
+Outback Jackson I55;6030 I-55 N., Jackson, MS;32.387185;-90.144774
+Cozumel Mexican Restaurant;823 S Wheatley St, Ridgeland, MS;32.401051;-90.1324471
+Shapley's Restaurant;868 Centre St, Ridgeland, MS;32.4033921;-90.1372536
+Country Market Restaurant;685 Highway 80 E, Pearl, MS;32.2770271;-90.1597685
+Red Hot & Blue;1625 E County Line Rd Ste 250, Jackson, MS;32.3988536;-90.12250259999999
+McDonald's;1810 North State Street, Jackson, MS;32.323094;-90.17643199999999
+Rooster's Restaurant;2906 N State St, Jackson, MS;32.3346626;-90.1762959
+Soops Restaurant;1205 Country Club Dr, Jackson, MS;32.3472197;-90.24897419999999
+McAlister's Deli;731 S Pear Orchard Rd 49, Ridgeland, MS;32.4030482;-90.1244945
+Romano's Macaroni Grill;6376 Ridgewood Court Dr, Jackson, MS;32.3975958;-90.13674639999999
+Back Yard Burgers;6230 Old Canton Rd, Jackson, MS;32.3864546;-90.1140197
+Domino's Pizza;4638 Hanging Moss Rd, Jackson, MS;32.369653;-90.17938199999999
+Wendy's International Inc;1240 High St, Jackson, MS;32.3037836;-90.1707421
+Church's Chicken;5673 Highway 18 W, Jackson, MS;32.2890907;-90.2708899
+Whataburger;1320 High St, Jackson, MS;32.3036517;-90.1689648
+Scrooge's;5829 Ridgewood Rd, Jackson, MS;32.3861604;-90.14190599999999
+Fazoli's;5827 Ridgewood Rd, Jackson, MS;32.3860353;-90.1423609
+Taco Bell;330 W Northside Dr, Jackson, MS;32.3558838;-90.1811683
+Back Yard Burgers;2601 N State St, Jackson, MS;32.3301188;-90.176093
+On The Border;6352 Ridgewood Court Dr, Jackson, MS;32.3969167;-90.1375225
+Taco Bell;1200 High St, Jackson, MS;32.3038441;-90.17136459999999
+Little Caesars Pizza;4525 N State St, Jackson, MS;32.3538188;-90.1749183
+Subway;4580 Clinton Blvd, Jackson, MS;32.3276918;-90.2484233
+US Foods Inc;9399 W Higgins Rd, Pearl, MS;32.023607;-89.8208848
+Npd Group;1210 E County Line Rd, Ridgeland, MS;32.4000283;-90.1316193
+Mazzio's Pizza;203 Park Ct, Ridgeland, MS;32.4245551;-90.139664
+Npd Group;118 Service Dr, Brandon, MS;32.2827693;-90.0258061
+Martin's Fish House;5249 Clinton Blvd, Jackson, MS;32.3316533;-90.2646039
+Capitol Franchise Group LLC;1107 Highland Colony Pkwy, Ridgeland, MS;32.4441869;-90.15190670000001
+McAlister's Corp;721 Avignon Dr, Ridgeland, MS;32.4149769;-90.1129467
+Pan-Asia Restaurant;720 Harbor Pines Dr, Ridgeland, MS;32.410927;-90.0914245
+Npd Group;144 Albertson Dr, Flowood, MS;32.3560502;-90.01315269999999
+Oferrall Management Group;1040 Highway 51, Madison, MS;32.4620904;-90.1105657
+El Potrillo Mexican Restaurant And Grill;100 Laurel Park Pl, Pearl, MS;32.3377388;-90.06958689999999
+IHOP;474 Briarwood Dr, Jackson, MS;32.3807711;-90.1483228
+Seattle Drip;6057 Old Canton Rd, Jackson, MS;32.3878494;-90.1149028
+Ellis Management Co Llc;2015 High Pointe Dr, Brandon, MS;32.285794;-90.008371
+Franco's Italian Restaurant;713 Clinton Pkwy, Clinton, MS;32.3472732;-90.3249792
+Piccadilly Cafeteria;4800 I 55 N Ste 1, Jackson, MS;32.361275;-90.1501961
+Waffle House;4800 Highway 18 W, Jackson, MS;32.2894575;-90.2697099
+Papa John's Pizza;717 W Mcdowell Rd, Jackson, MS;32.2681559;-90.2280145
+Burger King;5700 Medgar Evers Blvd, Jackson, MS;32.3630582;-90.2386319
+Pizza Hut;2106 Raymond Rd B, Jackson, MS;32.2724325;-90.2714362
+The Wing Station;5038 Parkway Drive, Jackson, MS;32.375444;-90.1237199
+Popeyes Chicken and Biscuits;975 North St, Jackson, MS;32.3117668;-90.17704719999999
+Aaa Septic Tank Cleaning Svc;Greenfield Rd, Brandon, MS;32.2500679;-90.00453999999999
+Wing Street;2601 Highway 80 W, Jackson, MS;32.2928132;-90.23179569999999
+Wing Street;2440 Bailey Ave, Jackson, MS;32.3280995;-90.1923085
+Fernando's;5647 US-80, Jackson, MS;32.3221761;-90.291157
+Mc Donald's;1741 Lakeland Dr, Jackson, MS;32.3336561;-90.1423054
+Pizza Hut Express;6365 I 55 N, Jackson, MS;32.3959839;-90.14575150000002
+Jasper's Carry Out & Catering;1054 Raymond Rd, Jackson, MS;32.284464;-90.23673590000001
+Pecan Park Cafe;1039 Pecan Park Cir, Jackson, MS;32.3043437;-90.2303116
+Rgt Management;1200 High St, Jackson, MS;32.3038441;-90.17136459999999
+Pearl's Southern Cooking;3505 Terry Rd, Jackson, MS;32.251572;-90.2262277
+Fuddruckers;5471 I 55 N, Jackson, MS;32.378745;-90.14866099999999
+Krispy Krunchy Chicken;3155 Terry Rd, Jackson, MS;32.258888;-90.22193
+Burger King;580 Witsell Rd, Jackson, MS;32.366313;-90.183784
+Pizza Hut Express;6365 I 55 N, Jackson, MS;32.3959839;-90.14575150000002
+Jasper's Carry Out & Catering;1054 Raymond Rd, Jackson, MS;32.284464;-90.23673590000001
+Pecan Park Cafe;1039 Pecan Park Cir, Jackson, MS;32.3043437;-90.2303116
+Rgt Management;1200 High St, Jackson, MS;32.3038441;-90.17136459999999
+Pearl's Southern Cooking;3505 Terry Rd, Jackson, MS;32.251572;-90.2262277
+Fuddruckers;5471 I 55 N, Jackson, MS;32.378745;-90.14866099999999
+Krispy Krunchy Chicken;3155 Terry Rd, Jackson, MS;32.258888;-90.22193
+Burger King;580 Witsell Rd, Jackson, MS;32.366313;-90.183784
+Taco Bell;2804 Suncrest Dr, Jackson, MS;32.2670923;-90.2613159
+Pizza Hut;1220 E Northside Dr 140, Jackson, MS;32.3567504;-90.150328
+Krystal;3875 Metro Dr, Jackson, MS;32.3031487;-90.25308780000002
+Boston Fish Supreme;2340 J R Lynch St, Jackson, MS;32.2977986;-90.221757
+Subway;210 E Capitol St Ste M117, Jackson, MS;32.30056100000001;-90.18530690000001
+IHOP;4755 I-55 N. Frontage Rd., Jackson, MS;32.3598259;-90.15179739999999
+Pizza Hut;2601 Highway 80 W, Jackson, MS;32.2928132;-90.23179569999999
+Aladdin Mediterranean Grill;730 Lakeland Dr, Jackson, MS;32.3340285;-90.17355889999999
+Taste of the Island;436 E Capitol St, Jackson, MS;32.2997104;-90.18174479999999
+High Noon;2807 Old Canton Rd Ste E, Jackson, MS;32.334088;-90.1752929
+Salsa's Mexican Restaurant;132 Lakeland Heights Blvd F, Flowood, MS;32.3410908;-90.0713856
+Georgia Blue;1078 Gluckstadt Rd # Ste 200, Madison, MS;32.517601;-90.109967
+G B Office;1078 Gluckstadt Rd, Madison, MS;32.517601;-90.109967
+Hooters;4620 I 55 N I, Jackson, MS;32.3560672;-90.1512386
+Kismet's Restaurant;315 Crossgates Blvd Ste G, Brandon, MS;32.2853498;-90.0367685
+Subway;6069 Old Canton Rd, Jackson, MS;32.3865535;-90.116946
+Subway;1263 High St, Jackson, MS;32.3029672;-90.1699628
+Subway;2500 N State St, Jackson, MS;32.3306493;-90.17422789999999
+Subway;308 E Pearl St # 100, Jackson, MS;32.2987998;-90.183936
+The Manship Wood Fired Kitchen;1200 N State St 100, Jackson, MS;32.3145426;-90.1776866
+Country Kitchen;219 W County Line Rd, Tougaloo, MS;32.3984299;-90.1522152
+Nagoya Japanese Restaurant;6351 I-55 N, Jackson, MS;32.3972784;-90.1477665
+Baskin-Robbins;1910 E County Line Rd, Ridgeland, MS;32.3994913;-90.1187728
+Krystal;2010 E County Line Rd, Ridgeland, MS;32.3994913;-90.1187728
+Subway;1400 J R Lynch St # 1, Jackson, MS;32.2977767;-90.2102889
+Zaxby's Chicken Fingers & Buffalo Wings;6330 Ridgewood Court Dr, Jackson, MS;32.3956695;-90.14010549999999
+Krystal;4307 N State St, Jackson, MS;32.3506936;-90.17557649999999
+Baskin-Robbins;957 Ellis Ave, Jackson, MS;32.3062614;-90.2281467
+Marble Slab Creamery;1057 E County Line Rd Ste B, Jackson, MS;32.3989635;-90.13844879999999
+Burger King;5597 Robinson Rd Ext, Jackson, MS;32.2695523;-90.26153169999999
+Krystal;3875 Highway 80 W, Jackson, MS;32.3031358;-90.25308009999999
+Krispy Krunchy Chicken;3145 W Capitol St, Jackson, MS;32.3213253;-90.22694190000001
+Jackson Stop & Go Snack Shop;168 Sidway St, Jackson, MS;32.318005;-90.18715300000001
+Chick-Fil-A;2500 N State St, Jackson, MS;32.3306493;-90.17422789999999
+Huntingtons Grille;1001 E County Line Rd, Jackson, MS;32.3991372;-90.1421745
+Eddie & Ruby's Snack Bar;1268 Valley St, Jackson, MS;32.295732;-90.215671
+Chick-Fil-A;1400 J R Lynch St, Jackson, MS;32.2977767;-90.2102889
+Bop's Frozen Custards;1173 E County Line Rd, Jackson, MS;32.399143;-90.13478599999999
+Hal & Mal's;200 Commerce St, Jackson, MS;32.2974605;-90.1796742
+Nick's;3000 Old Canton Rd, Jackson, MS;32.334689;-90.173687
+Associated Food Eqpt & Supls;829 Wilson Dr, Ridgeland, MS;32.4045584;-90.13845789999999
+Piccadilly Restaurants;1200 E County Line Rd, Ridgeland, MS;32.4029852;-90.1290921
+Ole Hickory Pits Inc;1128 Flowood Dr, Flowood, MS;32.291504;-90.14575119999999
+Ecolab;108 Distribution Dr, Richland, MS;32.2603099;-90.156976
+Subway;501 N West St, Jackson, MS;32.30418030000001;-90.184012
+Subway;876 Lakeland Dr, Jackson, MS;32.3339976;-90.1690156
+SUBWAY;5491 Watkins Dr # B, Jackson, MS;32.3847951;-90.1929224
+Subway;335 Elton Rd, Jackson, MS;32.2213629;-90.2294665
+SUBWAY;5225 Highway 18 W, Jackson, MS;32.28987499999999;-90.27125099999999
+Subway;1467 S Gallatin St, Jackson, MS;32.2835975;-90.19327229999999
+SUBWAY;5287 Clinton Blvd, Jackson, MS;32.3317528;-90.26546839999999
+Nicks In Fondren;3000 Old Canton Rd, Jackson, MS;32.334689;-90.173687
+Jason's Deli;1067 E County Line Rd, Jackson, MS;32.3982233;-90.13791599999999
+Sameerah's Restaurant;1038 E Woodrow Wilson Dr # B, Jackson, MS;32.3268098;-90.17065699999999
+Shapley's Restaurant;423 Greenwood Ln, Ridgeland, MS;32.4267567;-90.15447909999999
+Anjou Restaurant;361 Township Ave, Ridgeland, MS;32.4426089;-90.1530059
+Hobart;1011 N Flowood Dr, Flowood, MS;32.327031;-90.102963
+Unified Brands;1055 Mendell Davis Dr, Byram, MS;32.165447;-90.264623
+Rally's Hamburgers;1805 Highway 80 W, Jackson, MS;32.2864576;-90.21528579999999
+SUBWAY;850 E Fortification St, Jackson, MS;32.3124629;-90.1754612
+Rally's Hamburgers;219 W Northside Dr, Jackson, MS;32.3553668;-90.1789876
+Ubons Restaurant;1029 Highway 51 F2, Madison, MS;32.4623766;-90.1117719
+Water Fresh Inc;Po Box 722, Clinton, MS;32.3415342;-90.3217585
+Marketing Agents South;848 Centre St, Ridgeland, MS;32.4034703;-90.1392762
+Subway;2920 Lynch St, Jackson, MS;32.2979735;-90.22863459999999
+IHOP;2700 Greenway Dr, Jackson, MS;32.2911316;-90.2676925
+Subway;4321 N State St, Jackson, MS;32.3510388;-90.1754199
+Subway;2711 Greenway Dr, Jackson, MS;32.2879797;-90.26847149999999
+Subway;350 W Woodrow Wilson Ave Ste 410, Jackson, MS;32.3301137;-90.19490689999999
+Subway;2922 Terry Rd, Jackson, MS;32.265178;-90.21883849999999
+Subway;1206 E Northside Dr, Jackson, MS;32.35599730000001;-90.15041180000001
+Captain D's Seafood;5365 I 55 N, Jackson, MS;32.3724586;-90.1489556
+Quiznos Sub;5673 Highway 18 W, Jackson, MS;32.2890907;-90.2708899
+Subway;5820 Ridgewood Rd, Jackson, MS;32.3855309;-90.1416442
+Dairy Queen;724 Raymond Rd, Jackson, MS;32.2836314;-90.2281709
+Logan Farms Honey Glazed Hams;1220 E Northside Dr 250, Jackson, MS;32.3567504;-90.150328
+Haute Pig Restaurant;1856 Main St, Madison, MS;32.4700541;-90.132288
+Wingstop;1430 Ellis Ave, Jackson, MS;32.2930814;-90.22743679999999
+Wingstop;952 N State St, Jackson, MS;32.3115673;-90.1775905
+Arby's;237 S Pearson Rd, Jackson, MS;32.2698392;-90.1359762
+Subway;1225 N State St, Jackson, MS;32.3149885;-90.17939059999999
+Mario Restaurant;550 Port Gibson St, Raymond, MS;32.2509697;-90.4381102
+Mario Restaurant;550 Port Gibson St, Raymond, MS;32.2509697;-90.4381102
+Papa John's Pizza;1240 E Northside Dr Ste 1, Jackson, MS;32.3560496;-90.14861470000001
+Chili's Grill & Bar;475 Briarwood Dr, Jackson, MS;32.3799309;-90.14836679999999
+Burger King;3390 Terry Rd, Jackson, MS;32.2533493;-90.223931
+Subway;3720 S Siwell Rd, Jackson, MS;32.2466915;-90.3002315
+Quiznos;2945 Old Canton Rd, Jackson, MS;32.3349124;-90.17436699999999
+Chick-Fil-A;210 E Capitol St, Jackson, MS;32.30056100000001;-90.18530690000001
+McDonald's;2520 S Gallatin St, Jackson, MS;32.2733045;-90.1919923
+Lenny's Sub Shop;2820 N State St, Jackson, MS;32.334203;-90.1763179
+Jimmy Johns;715 Poplar Blvd, Jackson, MS;32.3145353;-90.1767167
+Jimmy Johns;715 Poplar Blvd, Jackson, MS;32.3145353;-90.1767167
+Chuck E Cheese's;6352 Ridgewood Court Dr, Jackson, MS;32.3969167;-90.1375225
+Little Caesars Pizza;2847 Mcdowell Road Ext, Jackson, MS;32.269598;-90.263091
+Red Lobster;6357 I-55 North, Jackson, MS;32.3975117;-90.1468546
+Popeye's Chicken & Biscuits;324 W Northside Dr, Jackson, MS;32.355923;-90.1808186
+Sonic Drive-In;3190 West Northside Drive, Jackson, MS;32.356465;-90.2288952
+Waffle House;425 E McDowell Rd, Jackson, MS;32.2679275;-90.2119182
+Wendy's;4950 I 55 N, Jackson, MS;32.3648571;-90.1478456
+Popeye's Chicken & Biscuits;3085 Terry Rd, Jackson, MS;32.2605024;-90.2211803
+Arby's;3865 Metro Dr, Jackson, MS;32.3234338;-90.06513269999999
+Sonic Drive-In;1900 East County Line Road, Ridgeland, MS;32.3994913;-90.1187728
+Sonic Drive-In;5849 Ridgewood Road, Jackson, MS;32.3873204;-90.1423963
+Waffle House;106 Larson St, Jackson, MS;32.3035319;-90.168571
+Church's Fried Chicken;327 W Northside Dr, Jackson, MS;32.3554148;-90.1814155
+Wendy's;555 E Woodrow Wilson Ave, Jackson, MS;32.3264177;-90.1771667
+Popeye's Chicken & Biscuits;4337 Robinson St, Jackson, MS;32.300752;-90.258318
+Stix Restaurant;109 Marketplace Ln, Flowood, MS;32.3376029;-90.06708499999999
+Saigon Restaurant;2640 Lakeland Dr, Flowood, MS;32.3300499;-90.11456489999999
+Popeye's Chicken & Biscuits;324 W Northside Dr, Jackson, MS;32.355923;-90.1808186
+Sonic Drive-In;3190 West Northside Drive, Jackson, MS;32.356465;-90.2288952
+Waffle House;425 E McDowell Rd, Jackson, MS;32.2679275;-90.2119182
+Wendy's;4950 I 55 N, Jackson, MS;32.3648571;-90.1478456
+Popeye's Chicken & Biscuits;3085 Terry Rd, Jackson, MS;32.2605024;-90.2211803
+Wendy's;3005 Terry Rd, Jackson, MS;32.2630733;-90.2202621
+Church's Chicken;3061 Terry Rd, Jackson, MS;32.2612186;-90.22097199999999
+Sonic Drive-In;4719 Clinton Boulevard, Jackson, MS;32.327815;-90.251297
+Friday's Eatery & Catering;4157 Robinson St, Jackson, MS;32.3029291;-90.256671
+Fannin Mart Restaurant;5419 Highway 25 M, Flowood, MS;32.3514033;-90.03112030000001
+Quality Restaurant Concepts;2389 Lakeland Dr, Flowood, MS;32.3284305;-90.1198393
+Gourmet Chinese Restaurant;587 Highway 51, Ridgeland, MS;32.4336928;-90.12695339999999
+Kobe Japanese Restaurant;139 S Pearson Rd, Pearl, MS;32.272702;-90.13643069999999
+Darden Restaurants Inc;6402 55 N I, Jackson, MS;32.3991512;-90.14425279999999
+Friday's Eatery & Catering;4157 Robinson St, Jackson, MS;32.3029291;-90.256671
+Fannin Mart Restaurant;5419 Highway 25 M, Flowood, MS;32.3514033;-90.03112030000001
+Quality Restaurant Concepts;2389 Lakeland Dr, Flowood, MS;32.3284305;-90.1198393
+Gourmet Chinese Restaurant;587 Highway 51, Ridgeland, MS;32.4336928;-90.12695339999999
+Arby's;3865 Highway 80 W, Jackson, MS;32.302791;-90.25247499999999
+Pizza Hut;2440 Bailey Ave, Jackson, MS;32.3280995;-90.1923085
+Grand China Sushi & Chinese;1060 E County Line Rd, Ridgeland, MS;32.4005816;-90.1368138
+Sonic Drive-In;2933 Mcdowell Road Ext, Jackson, MS;32.2694229;-90.26316489999999
+Pizza Hut;2440 Bailey Ave, Jackson, MS;32.3280995;-90.1923085
+Grand China Sushi & Chinese;1060 E County Line Rd, Ridgeland, MS;32.4005816;-90.1368138
+Sonic Drive-In;2933 Mcdowell Road Ext, Jackson, MS;32.2694229;-90.26316489999999
+Arby's;1260 High St, Jackson, MS;32.30367;-90.17026159999999
+Lone Star Steakhouse & Saloon;6010 I 55 N, Jackson, MS;32.3906876;-90.1454108
