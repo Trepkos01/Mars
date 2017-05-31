@@ -16,7 +16,11 @@
 			<%= hidden_field_tag "lat", value = ""%>
 			<%= hidden_field_tag "lon", value = ""%>
 			<% end %>
-			<span class="help-block">Now with <b><%= pluralize(@current_restaurant_count, "restaurant" ) %></b> and <b><%= pluralize(@current_meal_count, "meal") %></b>.<br class="responsive_show"/> Can't find your restaurant or meal? <%= link_to "Try adding it!", new_restaurant_path %></span>
+			<span class="help-block">Now with <b><%= pluralize(@current_restaurant_count, "restaurant" ) %></b> and <b><%= pluralize(@current_meal_count, "meal") %></b> in <b><%= pluralize(@cities_count, "city") %></b> throughout <b><%= pluralize(@states_count, "state") %></b>.
+				<br/> Can't find your restaurant or meal? <%= link_to "Try adding it!", new_restaurant_path %>
+				<br/>
+				<br/>Locations include <b><%= @locations_string %></b>
+			</span>
 			<div id="inform_user" class="help-block" style="color:red"></div>
 		</div>
 		<br/>

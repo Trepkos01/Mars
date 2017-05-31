@@ -3,6 +3,17 @@ class MainController < ApplicationController
 	def index
 		@current_restaurant_count = Restaurant.all.size
 		@current_meal_count = Meal.all.size
+		
+		locations = ActiveRecord::Base.connection.execute("SELECT DISTINCT substring(address from '[A-Za-z\s]+,\s[A-Z]{2}') AS location FROM restaurants WHERE random() < 0.01 LIMIT 10")
+		locations_result = locations.values
+		@locations_string = locations_result.map{|l| l[0].tr(',','') }.join(",")
+		
+		results = ActiveRecord::Base.connection.execute("SELECT COUNT(DISTINCT substring(address from '[A-Za-z\s]+,\s[A-Z]{2}')) AS num_cities FROM restaurants")
+		@cities_count = results[0]['num_cities']
+		
+		results = ActiveRecord::Base.connection.execute("SELECT COUNT(DISTINCT substring(address from ',\s[A-Z]{2}')) AS num_states FROM restaurants")
+		@states_count = results[0]['num_states']
+		
   end
 	
 	# The search action.
