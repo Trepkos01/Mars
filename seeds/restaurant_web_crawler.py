@@ -23,10 +23,10 @@ def write_list_to_file_and_exit(filename):
 	exit()
 
 def grab_page_data(restaurant_no):
-	name = driver.find_element_by_xpath("//*[@id='naturalResults." + str(x) + ".name']/div[1]/div/div/h4/span[1]").text
-	address = driver.find_element_by_xpath("//*[@id='naturalResults." + str(x) + ".address']/span[1]").text
-	city = driver.find_element_by_xpath("//*[@id='naturalResults." + str(x) + ".address']/span[2]").text
-	state = driver.find_element_by_xpath("//*[@id='naturalResults." + str(x) + ".address']/span[3]").text 
+	name = driver.find_element_by_xpath("//*[@id='naturalResults." + str(restaurant_no) + ".name']/div[1]/div/div/h4/span[1]").text
+	address = driver.find_element_by_xpath("//*[@id='naturalResults." + str(restaurant_no) + ".address']/span[1]").text
+	city = driver.find_element_by_xpath("//*[@id='naturalResults." + str(restaurant_no) + ".address']/span[2]").text
+	state = driver.find_element_by_xpath("//*[@id='naturalResults." + str(restaurant_no) + ".address']/span[3]").text 
 	if name.find("CLOSED") == -1:
 		location_string = address + " " + city + " " + state
 		location_geocoded = geocoder.google(location_string)
