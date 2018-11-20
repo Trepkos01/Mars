@@ -114,9 +114,7 @@
 <div id = "share_recommendation">
 	<h3>Share your recommendation.</h3>
 	<%= form_tag({controller: "meals", action: "share"}, method: "post") do %>
-		<% if current_user.provider == "facebook" %>
-			<%= submit_tag("Share on Facebook", name: "share_facebook", class: "btn btn-primary") %>
-		<% elsif current_user.provider == "twitter" %>
+		<% if current_user.provider == "twitter" %>
 			<%= submit_tag("Share on Twitter", name: "share_twitter", class: "btn btn-primary") %>
 		<% end %>
 	<% end %>

@@ -279,13 +279,13 @@ Devise.setup do |config|
 			ssl_options[:ca_path] = '/etc/ssl/certs' if Rails.env.development?
 			ssl_options[:ca_file] = ca_file
 
-			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email publish_actions', info_fields: 'name,email',
+			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email', info_fields: 'name,email',
 					client_options: {
 									site: 'https://graph.facebook.com/v2.6',
 									authorize_url: "https://www.facebook.com/v2.6/dialog/oauth"
 									}, token_params: { parse: :json }
 	else
-			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email publish_actions', info_fields: 'name,email',
+			config.omniauth :facebook, ENV["FACEBOOK_ID"], ENV["FACEBOOK_SECRET"], scope: 'email', info_fields: 'name,email',
 				client_options: {
 									site: 'https://graph.facebook.com/v2.6',
 									authorize_url: "https://www.facebook.com/v2.6/dialog/oauth"

@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-
+ruby "2.5.1"
 
 ## Gem packages which came by default.
-gem 'rails', '4.2.6'			# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails'						# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'sass-rails', '~> 5.0'		# Use SCSS for stylesheets
 gem 'uglifier', '>= 1.3.0'		# Use Uglifier as compressor for JavaScript assets
 gem 'coffee-rails', '~> 4.1.0'	# Use CoffeeScript for .coffee assets and views
